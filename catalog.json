@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "styles": [
   {
    "id": "01",
@@ -606,6 +606,27 @@
    "effectEn": "Imagine your pet as a human — keeping its fur colors, personality and features.",
    "optsEn": "Age, job / setting, style (realistic / illustration)",
    "locked": true
+  },
+  {
+   "id": "65",
+   "name": "黑夜粉筆塗鴉",
+   "en": "Chalk Doodles on Dark Photo",
+   "cat": "mix",
+   "tags": [
+    "pet",
+    "people",
+    "food",
+    "interior"
+   ],
+   "fit": "寵物、人像、桌上的東西、房間一角，背景暗一點更有感覺",
+   "fitEn": "Pets, portraits, things on a table, a corner of a room — darker backgrounds work best",
+   "color": "#2b2b2b",
+   "effect": "照片整張壓得很暗，只剩主體隱約的輪廓；上面散布十幾個白色粉筆線條的小塗鴉，畫的是照片裡的東西和你的日常，中間一行手寫的名字或帳號。",
+   "effectEn": "The whole photo is darkened until only the subject faintly shows; a dozen small white chalk-line doodles of things from the photo and your everyday life are scattered on top, with a handwritten name or handle in the middle.",
+   "opts": "名字或帳號、塗鴉數量（8／12／16）、名字顏色（黃／粉／白）、要畫進去的東西",
+   "optsEn": "Name or handle, number of doodles (8 / 12 / 16), name color (yellow / pink / white), things to include",
+   "pzh": "把我上傳的照片做成一張 9:16 直式的限時動態圖。先把整張照片壓得很暗（像蓋上一層 80% 的黑），只留下主體隱約可見的輪廓和一點點亮部，看得出是什麼但不搶戲。然後在整個畫面上散布【8／12／16】個小塗鴉，用白色粉筆或白色蠟筆的質感畫：線條偏粗、邊緣有一點顆粒和不均勻，像小朋友在黑板上畫的，可愛、笨拙、有點好笑。塗鴉的內容一半從照片裡挑（主體本身、旁邊的東西、牠的動作），一半是我的日常：【例如：咖啡、腳踏車、貓罐頭、吉他】，再混幾個簡單的小表情、星星、問號和箭頭。每個塗鴉都很小、彼此分開、位置隨意不對齊，大量留黑。畫面正中央用手寫字寫「【名字或帳號】」，顏色是【黃色／粉紅色／白色】，筆觸和塗鴉一樣。只有這一行字，其他地方不要文字。整體像深夜用粉筆在照片上亂畫的手帳，不要寫實光影，不要霓虹發光效果。",
+   "pen": "Turn my uploaded photo into a 9:16 vertical story image. First darken the entire photo heavily (as if covered by an 80% black layer), leaving only a faint silhouette of the subject and a few highlights — recognizable but not distracting. Then scatter [8 / 12 / 16] small doodles across the whole frame, drawn in white chalk or white crayon: fairly thick lines with slightly grainy, uneven edges, like a kid drawing on a blackboard — cute, clumsy, a little funny. Half of the doodles come from the photo (the subject itself, things beside it, what it's doing), half from my everyday life: [e.g. coffee, bicycle, cat food can, guitar], plus a few simple faces, stars, question marks and arrows. Every doodle is small, separate from the others and placed loosely without alignment, with lots of black space left. In the very center, handwrite \"[name or handle]\" in [yellow / pink / white], with the same stroke as the doodles. That is the only text; no other words anywhere. Overall it should feel like a late-night journal page scribbled in chalk over a photo — no realistic shading, no neon glow effects."
   }
  ],
  "events": []
