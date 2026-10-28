@@ -1,0 +1,607 @@
+{
+ "version": 1,
+ "styles": [
+  {
+   "id": "01",
+   "name": "手帳圖鑑拆解",
+   "en": "Doodle Memory Sheet",
+   "cat": "illust",
+   "tags": [
+    "food",
+    "people",
+    "pet",
+    "travel",
+    "interior"
+   ],
+   "fit": "旅行、聚餐、出遊、寵物日常，畫面裡東西越多越好玩",
+   "color": "#e9b949",
+   "effect": "上半原照；下半把照片裡的人、物、小細節拆成 9 個手繪小圖示，像一頁手帳。",
+   "opts": "標題文字、配色（彩鉛／蠟筆）、圖示數量（6／9／12）",
+   "pzh": "把我上傳的照片做成一張 3:4 直式海報，上下各佔一半。上半部放原照，人物長相、姿勢、光線和色調都不改，只微調顏色，背景可以自然延伸補滿畫面。下半部從照片中挑出 9 個最有記憶點的元素（人物、隨身物品、食物、植物、交通工具、表情或小動作），各自畫成可愛、帶點笨拙感的手繪小圖示，鬆散地排成 3×3，位置和大小可以有點歪，不要像表格。畫風是黑色細線加彩色鉛筆／蠟筆上色，保留紙張紋理和顆粒，不要寫實光影。頂部加一行手寫小標題和幾個星星、波浪線，底部加一句很小的手寫註解。留白要多，整體輕鬆、乾淨，像私人手帳的一頁。每張照片各自輸出一張，不要拼在一起。",
+   "pen": "Turn my uploaded photo into a 3:4 vertical poster split evenly top and bottom. Top half: the original photo, keeping the person's identity, pose, lighting and colors unchanged — only a subtle color grade; extend the background naturally if needed. Bottom half: pick the 9 most memorable elements from the photo (people, belongings, food, plants, vehicles, gestures, expressions) and draw each as a cute, slightly naive hand-drawn doodle icon, loosely arranged in a 3×3 grid with small shifts in size and angle so it doesn't feel rigid. Style: thin wobbly black outlines with colored-pencil / crayon fill, visible paper grain, flat colors, no realistic shading. Add a short handwritten title with a few stars or squiggles at the top and a tiny handwritten caption at the bottom. Keep plenty of white space — relaxed, clean, like a page from a personal journal. One poster per photo, no collages.",
+   "fitEn": "Trips, meals, outings, pet life — the more stuff in the shot, the more fun",
+   "effectEn": "Top: your photo. Bottom: the people, objects and little details turned into 9 hand-drawn icons, like a journal page.",
+   "optsEn": "Title text, colors (colored pencil / crayon), number of icons (6 / 9 / 12)"
+  },
+  {
+   "id": "05",
+   "name": "極簡紙本小插畫",
+   "en": "Tiny Subject, Big Space",
+   "cat": "illust",
+   "tags": [
+    "people",
+    "pet",
+    "food"
+   ],
+   "fit": "單人、寵物、一杯飲料或一個物件，主體越單純越好看",
+   "color": "#d9603b",
+   "effect": "上半原照（雜誌感調色）；下半是很小的手繪壓克力平塗插畫，周圍大量留白，像獨立出版品封面。",
+   "opts": "留白多寡、文字類型（地點／年份／一句話／不加字）",
+   "pzh": "把我上傳的每張照片各自做成一張 3:4 直式海報，上下各佔一半，像一本藝術書的封面。上半部盡量忠實保留原照：人物長相、比例、姿勢、服裝、物件和光線都不改，只做低調的雜誌感調色；需要時可以自然延伸天空、地面或牆面，主體不能拉伸或變形。下半部把照片裡最好認的主體和動作，簡化成一個很小的手繪插畫，只佔下半部約 10～20%，放在中間。線條細、略不完美，搭配幾塊壓克力感的平塗色塊、看得到筆刷痕跡，背景是粗糙的米白紙張，大量留白。顏色從原照抽取，最多 4 色。可以加一點點文字（例如地點、年份、物件名稱或一句短句），不適合就不要加。整體安靜、有詩意、簡約。避免彩色鉛筆、蠟筆、暈染水彩、純線稿、寫實插畫、3D、光滑數位插畫、商業卡通和廣告感。",
+   "pen": "Turn each uploaded photo into its own 3:4 vertical poster split evenly top and bottom, like an independent art-book cover. Top half: keep the original photo as faithful as possible — identity, proportions, pose, clothing, objects and lighting unchanged — with only understated editorial color grading; extend sky, ground or walls if needed, never stretch the subject. Bottom half: reduce the most recognizable subject and gesture into one tiny hand-drawn illustration, centered and taking only about 10–20% of the area. Use delicate, slightly imperfect lines with a few bold acrylic-style flat color shapes and visible brush marks, on rough off-white paper with lots of empty space. Pull at most 4 colors from the photo. Optionally add a little understated text (place, year, object name or a short phrase) — skip it if it doesn't fit. Quiet, poetic, minimal. Avoid colored pencil, crayon, bleeding watercolor, pure line art, realistic or glossy digital illustration, 3D, commercial cartoons and ad aesthetics.",
+   "fitEn": "One person, a pet, a drink or a single object — the simpler the subject, the better",
+   "effectEn": "Top: your photo with a magazine-style grade. Bottom: a tiny flat acrylic illustration surrounded by lots of white space, like an indie zine cover.",
+   "optsEn": "Amount of white space, text type (place / year / one line / none)"
+  },
+  {
+   "id": "20",
+   "name": "故意畫醜塗鴉",
+   "en": "Ugly-Cute Doodle",
+   "cat": "illust",
+   "tags": [
+    "people",
+    "pet"
+   ],
+   "fit": "人像、寵物、朋友合照，反差越大越好笑",
+   "color": "#f2c230",
+   "effect": "上半原照；下半是故意畫得很醜、很好笑的兒童塗鴉版。畫得越好越失敗。",
+   "opts": "材質（蠟筆／原子筆／麥克筆）、只畫主體或連背景",
+   "pzh": "做一張 3:4 直式上下對比圖，上下各佔一半、直接相接。上半部放我上傳的原照，不重畫、不加濾鏡，只能為了填滿而輕微裁邊。下半部把同一張照片重畫成故意很醜、很好笑的兒童塗鴉：人物、寵物或物品的數量、姿勢和明顯特徵要看得出來，但比例歪掉、線條亂抖、上色塗出界，像小孩用【蠟筆】隨手畫的。畫得越好越失敗，越笨拙越成功。不要加邊框、分隔線、箭頭、「Before／After」字樣、標題或浮水印。",
+   "pen": "Make a 3:4 vertical before/after image, split evenly with no gap. Top: my original photo, unredrawn and unfiltered — only crop edges slightly to fill. Bottom: redraw the same photo as an intentionally ugly, hilarious child's doodle. Keep the number of people/pets/objects, their poses and obvious features recognizable, but with wonky proportions, shaky lines and messy coloring that goes outside the lines, as if a kid drew it with [crayons]. The better it's drawn, the more it fails — the clumsier, the better. No borders, dividers, arrows, before/after labels, titles or watermarks.",
+   "fitEn": "Portraits, pets, group photos with friends — the bigger the contrast, the funnier",
+   "effectEn": "Top: your photo. Bottom: a deliberately bad, hilarious kid's doodle version. The better it's drawn, the worse it worked.",
+   "optsEn": "Medium (crayon / ballpoint / marker), subject only or with background"
+  },
+  {
+   "id": "22",
+   "name": "居家雜誌插畫",
+   "en": "Cozy Interior Card",
+   "cat": "illust",
+   "tags": [
+    "interior"
+   ],
+   "fit": "房間、客廳、咖啡廳、民宿、工作室或店面",
+   "color": "#b98b5e",
+   "effect": "上半房間實拍；下半同一個房間變成舊書質感的溫暖家居插畫，可加兩行英文小字。",
+   "opts": "兩行英文文案、是否加字",
+   "pzh": "用我上傳的室內照片做一張 3:4 直式「實拍＋簡約插畫」紀念卡，上下各佔一半。房間格局、家具數量、主要擺設和門窗位置都不改，也不要加東西。上半部保留原照的真實質感。下半部是溫暖的象牙白手工紙，中間畫一幅同一個房間的橫向插畫，約佔寬度 65%，四周留白。保留牆面、門窗、櫃子、沙發、桌椅、燈和大型擺飾的輪廓和視角，刪掉小雜物、材質紋理、反光和複雜陰影，簡化成清楚、有點笨拙的幾何色塊和細細的手繪線條，線條可以有點歪。從照片取 4～6 個顏色，調成柔和的奶油白、灰綠、焦糖棕、磚紅、灰藍和淡黃，平塗上色。質感混合蠟筆、粉彩、絹印和舊書插圖，保留紙張透白、顆粒、顏色不均和輕微套色偏移。插畫下方可以加兩行和空間氛圍有關的英文小字（復古襯線字、靠左對齊），做不好就留白。刪掉照片裡的人物和螢幕畫面，不要寫實繪畫、建築效果圖、動漫、3D、logo 和浮水印。",
+   "pen": "Turn my interior photo into a 3:4 vertical \"photo + simple illustration\" keepsake card, split top and bottom. Keep the room layout, furniture count, main décor and door/window positions; add nothing. Top half: the real photo. Bottom half: warm ivory handmade paper with a centered horizontal illustration of the same room at about 65% width, with generous margins. Keep the outlines and viewpoint of walls, windows, cabinets, sofa, tables, chairs, lamps and large décor; drop small clutter, material textures, reflections and complex shadows. Simplify into clear, slightly clumsy geometric color blocks with thin hand-drawn lines that may wobble. Take 4–6 colors from the photo and soften them into cream, grey-green, caramel brown, brick red, grey-blue and pale yellow, flat-filled. Mix crayon, pastel, screen-print and old-book illustration textures with paper showing through, fine grain, uneven color and slight misregistration. Optionally add two short lines of English about the mood below the illustration in a small vintage serif, left-aligned — leave it blank if text won't render cleanly. Remove people and screens. No realistic painting, architectural renders, anime, 3D, logos or watermarks.",
+   "fitEn": "Bedrooms, living rooms, cafés, guesthouses, studios or shops",
+   "effectEn": "Top: the real room. Bottom: the same room as a warm home illustration with an old-book texture, plus two small lines of text.",
+   "optsEn": "Two lines of text, with or without text"
+  },
+  {
+   "id": "29",
+   "name": "日常生活手繪",
+   "en": "Everyday Life Illustration",
+   "cat": "illust",
+   "tags": [
+    "people",
+    "food"
+   ],
+   "fit": "生活照、吃飯、工作、逛街",
+   "color": "#7fb6d8",
+   "effect": "上半原照；下半同一個人、同一個場景，變成溫暖有趣的日常繪本插畫，簽字筆輪廓加馬克筆平塗。",
+   "opts": "是否保留背景、配色",
+   "pzh": "用我上傳的照片做一張 3:4 直式、上下各半的對照海報。上半部直接放原照，人物長相、髮型、服裝、動作、構圖和背景都不改。下半部把同一個人和主要場景改畫成溫暖有趣的日常生活插畫：保留人物特徵、髮型、服裝、表情、動作和主要物品，背景和次要細節可以簡化。用粗細自然變化的黑色簽字筆線，線條圓潤、放鬆、有點抖、不完全封口；人物簡單可愛，五官用幾筆帶過，比例自然、不要太 Q 版。用大塊平塗色，帶一點馬克筆和淡水彩質感，配色低飽和、溫暖，以奶油白、淺藍、草綠、暖黃、磚紅和淺棕為主。背景是白色或暖白，只留和故事有關的少量環境，四周留白。不要寫實插畫、3D、厚重油畫、精細動漫、大頭 Q 版、工整向量線、文字和浮水印。",
+   "pen": "Make a 3:4 vertical before/after poster from my photo, split evenly. Top: the original photo with face, hair, outfit, action, composition and background unchanged. Bottom: redraw the same person and main scene as a warm, playful everyday-life illustration — keep their features, hairstyle, clothing, expression, action and key objects, while simplifying background and minor details. Use black felt-tip outlines with natural weight variation — rounded, relaxed, slightly wobbly, not fully closed. Keep the person simple and cute with minimal facial lines and natural proportions (not big-head chibi). Use large flat color areas with a hint of marker and light watercolor in a soft, warm, low-saturation palette: cream, light blue, grass green, warm yellow, brick red, light brown. White or warm-white background with only a few story-relevant details and plenty of space. No realistic illustration, 3D, heavy oil paint, detailed anime, big-head chibi, rigid vector lines, text or watermarks.",
+   "fitEn": "Everyday shots — eating, working, shopping",
+   "effectEn": "Top: your photo. Bottom: the same person and scene as a warm, playful picture-book illustration with pen outlines and flat marker color.",
+   "optsEn": "Keep the background or not, color palette"
+  },
+  {
+   "id": "37",
+   "name": "鋼筆淡彩旅行手帳",
+   "en": "Pen & Wash Travel Journal",
+   "cat": "illust",
+   "tags": [
+    "travel",
+    "street"
+   ],
+   "fit": "旅行街景、老房子、咖啡店、山海風景",
+   "color": "#4f8fc0",
+   "effect": "上半原照；下半是旅行速寫本上的鋼筆線＋透明水彩，線條輕鬆、顏色不填滿、紙張透白。",
+   "opts": "留白多寡（滿版速寫／小插畫大留白）、要不要加一行手寫字",
+   "pzh": "把我上傳的照片做成上下對比圖：上半部是原照，不重畫、不裁切、不加東西；下半部是同一張照片重畫成明亮、有生活感的旅行手帳鋼筆淡彩插畫，上下兩格對齊，中間留一條自然的暖白間隔，不加框、標題或箭頭。下半部只以原照為內容依據，保留主體、數量、位置、動作、建築和道路走向，不要自己加原圖沒有的電車、花磚、陽台或咖啡桌。用黑色或深灰細鋼筆快速勾輪廓，線條輕鬆、略抖、粗細不一，可以有重描、錯位和沒封口的地方；近景線深、遠景線淺且少。上色混合透明水彩、稀釋水粉和少量麥克筆，局部輕薄色塊、不必填滿，保留白紙，可以有水痕和乾筆。配色明亮但不螢光（鈷藍、湖藍、陽光黃、陶土橙、珊瑚紅、葉綠、暖米色）。畫在暖白粗紋水彩紙上，邊緣自然淡出，像旅途中直接畫在速寫本上的一頁。",
+   "pen": "Make a stacked before/after from my photo: top is the original — no redrawing, cropping or additions; bottom is the same photo redrawn as a bright, lived-in travel-journal pen-and-wash illustration. Align the two, with a thin natural warm-white gap between and no frames, titles or arrows. Base the bottom only on the photo: keep subjects, counts, positions, actions, buildings and street directions, and don't add trams, tiles, balconies or café tables that aren't there. Sketch outlines quickly with a fine black or dark-grey pen — loose, slightly shaky, uneven weight, with re-strokes, slight offsets and open contours; darker lines up close, lighter and fewer in the distance. Color with transparent watercolor, diluted gouache and a little marker in light, partial washes that don't fill every shape, leaving white paper, with water marks and dry-brush. Bright but never neon palette (cobalt, lake blue, sunny yellow, terracotta, coral, leaf green, warm beige). On warm white cold-press watercolor paper with softly fading, unfinished edges — like a page painted on the spot in a sketchbook.",
+   "fitEn": "Street scenes, old houses, cafés, mountains and sea",
+   "effectEn": "Top: your photo. Bottom: a fountain-pen and watercolor sketch from a travel sketchbook — loose lines, color not filled in, paper showing through.",
+   "optsEn": "Amount of white space (full sketch / small sketch, lots of space), add a handwritten line or not"
+  },
+  {
+   "id": "18",
+   "name": "動畫截圖",
+   "en": "Anime Still",
+   "cat": "illust",
+   "tags": [
+    "travel",
+    "street",
+    "interior"
+   ],
+   "fit": "任何照片，風景和街景特別有感覺",
+   "color": "#5c9bd6",
+   "effect": "照片變成像日本動畫電影裡的一格畫面。",
+   "opts": "動畫風格（溫暖手繪背景／現代清透光影）、時間（白天／黃昏／夜晚）",
+   "pzh": "把我上傳的照片變成一部日本動畫電影裡的一格畫面。構圖、人物動作和場景都不改，用【溫暖的手繪背景、柔和光線】的動畫風格重畫，天空和光影要特別漂亮。看起來像真的動畫截圖，不要加字幕或文字。",
+   "pen": "Show my uploaded photo as a frame from an actual Japanese animated film. Keep the composition, actions and setting; redraw it in an anime style with [warm hand-painted backgrounds and soft lighting], with especially beautiful sky and light. It should look like a real anime screenshot — no subtitles or text.",
+   "fitEn": "Any photo — landscapes and street scenes look especially good",
+   "effectEn": "Your photo becomes a frame from a Japanese animated film.",
+   "optsEn": "Animation look (warm hand-painted backgrounds / modern clear light), time of day (day / dusk / night)"
+  },
+  {
+   "id": "36",
+   "name": "中式水墨",
+   "en": "Ink Wash Reinterpretation",
+   "cat": "illust",
+   "tags": [
+    "travel",
+    "street",
+    "pet"
+   ],
+   "fit": "山景、老建築、廟宇、花、人物背影、貓狗",
+   "color": "#4a4a48",
+   "effect": "上半原照；下半宣紙上的自由寫意水墨，有濃淡、飛白、暈染，大量留白。",
+   "opts": "要不要加一點照片顏色點染",
+   "pzh": "只用我上傳的這張照片，做一張 3:4 直式海報，上下各佔一半，分界清楚，任何元素都不能跨過分界線。上半部保留原照，主體身分、輪廓、姿勢、比例、角度、質感和光線都不改，只做輕微修圖和調色。下半部是暖白宣紙，把照片中最好認的主體輪廓、姿態、結構和氛圍，重畫成極簡的自由寫意水墨：用墨色濃淡、乾濕筆觸、暈染、飛白、斷墨和留白，核心結構精煉、次要細節省略，邊緣慢慢變淡融進紙裡。可以從照片取一點代表色輕輕點染，但整體以墨色和留白為主。分界線下先留一小段空白，水墨畫放在下半部中間偏下，約佔寬度 55～70%，四邊都不碰到紙緣，留白約四到五成。上下構圖不要像鏡像倒影。不要加文字、印章、簽名、logo 或浮水印，避免做舊泛黃、傳統符號堆砌和刺眼配色。",
+   "pen": "Using only this photo, create a 3:4 vertical poster split evenly with a clear boundary that nothing crosses. Top: the original photo with identity, outline, pose, proportions, angle, texture and lighting unchanged — only light retouching and grading. Bottom: warm white rice paper with the photo's most recognizable outline, posture, structure and mood re-expressed as minimal freehand ink-wash painting — varied ink density, wet and dry strokes, bleeding, flying-white dry brush, broken ink and empty space; refine the core structure, drop minor details, and let edges fade into the paper. A few touches of the photo's colors are fine, but ink and emptiness dominate. Leave a small blank band under the divider; place the painting slightly below center at about 55–70% width, never touching the paper edges, with 40–50% left empty. The bottom must not mirror the top. No text, seals, signatures, logos or watermarks; avoid aged yellowing, piles of traditional symbols and harsh colors.",
+   "fitEn": "Mountains, old buildings, temples, flowers, figures from behind, cats and dogs",
+   "effectEn": "Top: your photo. Bottom: free-flowing Chinese ink wash on rice paper — light and dark ink, dry-brush strokes, bleeds and lots of empty space.",
+   "optsEn": "Add a touch of color from the photo or not"
+  },
+  {
+   "id": "64",
+   "name": "彩虹粉蠟筆",
+   "en": "Rainbow Oil Pastel",
+   "cat": "illust",
+   "tags": [
+    "pet",
+    "people"
+   ],
+   "fit": "寵物、人像、花、小動物",
+   "color": "#f2a93b",
+   "effect": "上半原照；下半是用油性粉蠟筆畫在厚白紙上的彩色手繪，彩色粗輪廓、多色短筆觸疊色，像把真的畫拍下來。",
+   "opts": "輪廓主色、背景色塊（留白／一塊平塗色）",
+   "pzh": "把我上傳的照片做成一張 3:4 直式上下對比圖，上下各佔一半。上半部是原照，不重畫，只輕微調色。下半部是同一個主體用油性粉蠟筆畫在厚白色粉彩紙上的手繪作品，看起來像把真實的畫拍下來。只畫主體，造型簡化、有點稚拙，像一般人隨手畫的可愛小畫，不要寫實細節；主體畫得大，可以稍微被裁切；背景大多是紙張留白，最多加一塊平塗的蠟筆色塊當地面或墊子。輪廓用粗而斷續的彩色蠟筆線勾邊，湖水綠、正紅、紫色、橘色交替出現，不要黑色輪廓。身體用鬆散、稀疏、順著毛流方向的短筆觸疊色，同一塊區域混入 3～5 種鮮豔顏色（檸檬黃、橘、粉紅、薰衣草紫、草綠），不照寫實毛色，但花紋位置和明暗要跟原照一致，筆觸之間露出白紙。眼睛用一個清楚的實色加深色瞳孔，鼻子和嘴巴簡單幾筆，鬍鬚用細的深色線。要看得到蠟筆顆粒、紙紋、筆觸邊緣的蠟屑和輕微抹開的痕跡。姿勢、表情和特徵都和原照一樣，一眼認得出是同一個；動物是正常的四隻腳，人物是兩隻手、兩隻腳。色彩飽和、快樂、童趣但不幼稚。不要水彩、色鉛筆、數位平塗、向量、3D、黑色描邊、文字或浮水印。",
+   "pen": "Make a 3:4 vertical before/after image from my photo, split evenly. Top: the original photo, not redrawn, only a light color grade. Bottom: the same subject drawn with oil pastels on thick white pastel paper, looking like a photo of a real drawing. Draw only the subject, simplified and a little naive like a cute casual sketch — no realistic detail; draw it large, slightly cropped if needed; leave most of the background as bare paper, with at most one flat crayon block as a floor or cushion. Outline with thick, broken colored crayon strokes alternating teal, bright red, violet and orange — no black outlines. Build the body from loose, sparse short strokes following the fur direction, mixing 3–5 vivid colors in each area (lemon yellow, orange, pink, lavender, grass green); don't copy realistic coloring, but keep markings and light/dark in the same places as the photo, with white paper showing between strokes. Eyes in one clear solid color with dark pupils, nose and mouth in a few simple strokes, whiskers as thin dark lines. Show crayon grain, paper texture, waxy crumbs at stroke edges and slight smudging. Keep pose, expression and features so it's instantly recognizable; animals have four normal legs, people exactly two arms and two legs. Saturated, happy and playful but not childish. No watercolor, colored pencil, flat digital fill, vectors, 3D, black outlines, text or watermarks.",
+   "fitEn": "Pets, portraits, flowers, small animals",
+   "effectEn": "Top: your photo. Bottom: a colorful oil-pastel drawing on thick white paper — bold colored outlines and layered short strokes, like a photo of a real drawing.",
+   "optsEn": "Main outline color, background block (blank / one flat color)"
+  },
+  {
+   "id": "02",
+   "name": "奶油霧感",
+   "en": "Creamy Mist",
+   "cat": "design",
+   "tags": [
+    "travel"
+   ],
+   "fit": "風景、森林、公園、山景",
+   "color": "#8fa98a",
+   "effect": "上半原照；下半同一畫面變成柔和霧面的幾何插畫，綠色系＋奶油白。",
+   "opts": "主色（綠色系／藍灰系／粉杏色系）、直排小字內容",
+   "pzh": "用我上傳的照片做一張 3:4 直式上下對比海報。上半部是原照，填滿上方和左右邊。中間留一段奶油白的空白，上下邊緣柔和地淡出。下半部把同一個場景改畫成霧濛濛的幾何插畫：主體、視角和構圖不變，把複雜的景物簡化成幾塊圓潤的大色塊，不要加原本沒有的東西。配色用鼠尾草綠、灰綠、深森林綠、奶油白和一點暖杏色，用柔和漸層表現立體感，加一層細緻的磨砂顆粒。遠景和畫面邊緣慢慢融進奶油色的霧裡，主體要清楚看得出來。下半部四周自然融進奶油白底色，右側加一行和場景有關的灰色直排中文小字。整體安靜、柔軟、空靈，避免硬邊、強烈對比、塑膠感和太多細節。",
+   "pen": "Create a 3:4 vertical before/after poster from my photo. Top: the original photo, filling the top and side edges. Middle: a clear band of creamy-white space with soft faded edges. Bottom: the same scene redrawn as a hazy geometric illustration — same subject, viewpoint and composition, simplified into a few large rounded shapes, nothing added. Palette: sage green, grey-green, deep forest green, cream white and a touch of warm apricot, with soft gradients for volume and a fine matte grain. Let the background and edges dissolve into a creamy mist while the main subject stays recognizable. Blend the bottom section into the cream background with generous white space, and add one short line of small grey vertical Chinese text on the right related to the scene. Quiet, soft and airy — no hard edges, harsh contrast, plastic look or dense detail.",
+   "fitEn": "Landscapes, forests, parks, mountains",
+   "effectEn": "Top: your photo. Bottom: the same view as a soft, misty geometric illustration in greens and cream.",
+   "optsEn": "Main palette (greens / blue-grays / peach-pinks), small vertical text"
+  },
+  {
+   "id": "03",
+   "name": "光的褶皺",
+   "en": "Fluted Glass / 長虹玻璃",
+   "cat": "design",
+   "tags": [
+    "people",
+    "pet",
+    "food"
+   ],
+   "fit": "人像、寵物、花、商品或甜點",
+   "color": "#c9b8a6",
+   "effect": "上半原照；下半像隔著一整片超細直紋長虹玻璃看同一張照片，中心清楚、四周折射成光帶。",
+   "opts": "折射強度（輕／中／強）、英文標題文字、底色（奶油／淺灰）",
+   "pzh": "把我上傳的每張照片各自做成一張 3:4 直式雙聯藝術海報，不要合併照片。上下各佔 50%，中間用一條乾淨的水平線分開，不要加相框、膠帶、撕紙等裝飾。上半部是原照，滿版到頂部和左右邊，主體的長相、表情、姿勢、服裝、結構和光線都不能改，只做輕微調色。下半部用同一張照片，在前面蓋上一整片滿版的直紋長虹玻璃，紋路非常細、非常密（約一般長虹玻璃的 3～5 倍），要有真實的透明感、高光、反射和折射，不要看起來像貼紙、百葉窗或濾鏡。自動找出視覺焦點（眼睛和臉、花心、建築特徵或商品重點），焦點處的玻璃幾乎透明、看得很清楚，往外折射逐漸變強，形成細長的光帶和色帶，但主體不能消失、重複或變形。顏色從原照取，底色用低對比的奶油白、米色或淺灰。用柔和的商業攝影打光。加上簡短、有意義的英文標題和小字，標題用細的高對比襯線字，小字用簡潔無襯線字，不對稱排版，不要擋到焦點，不要亂碼或浮水印。",
+   "pen": "Make each uploaded photo into its own 3:4 vertical art diptych — never combine photos. Split it 50/50 with a clean straight horizontal line; no frames, tape, torn paper or decorative borders. Top half: the original photo, full-bleed to the top and sides, with identity, expression, pose, clothing, structure and lighting unchanged — only a subtle color grade. Bottom half: the same photo seen through a full sheet of ultra-fine vertical fluted (reeded) glass, about 3–5× denser than normal, with real transparency, highlights, reflections and refraction — not a sticker, blinds or a digital filter. Automatically find the focal point (eyes and face, flower center, key architectural detail or product feature): keep the glass nearly clear there, then increase refraction smoothly outward into thin streaks of light and color. The subject must never disappear, duplicate or distort. Pull colors from the original photo; use a low-contrast cream, beige or light-grey background. Soft commercial studio lighting. Add a short meaningful English title and small subtitle — thin high-contrast serif for the title, clean sans-serif for small text — in an asymmetric layout that doesn't cover the focal point. No gibberish text or watermarks.",
+   "fitEn": "Portraits, pets, flowers, products or desserts",
+   "effectEn": "Top: your photo. Bottom: the same photo seen through a sheet of fine fluted glass — sharp in the middle, refracted into light bands around the edges.",
+   "optsEn": "Refraction strength (light / medium / strong), English title, background color (cream / light gray)"
+  },
+  {
+   "id": "06",
+   "name": "包浩斯幾何",
+   "en": "Bauhaus Riso Geometry",
+   "cat": "design",
+   "tags": [
+    "street",
+    "travel"
+   ],
+   "fit": "建築、街景、風景、靜物",
+   "color": "#3a5bbf",
+   "effect": "上半原照；下半把照片拆成圓、弧、三角組成的抽象幾何，孔版印刷紙感＋高對比襯線英文標題。",
+   "opts": "幾何主體大小、英文標題、紙色（暖白／象牙白）",
+   "pzh": "把我上傳的每張照片各自做成一張 3:4 直式海報，上下各佔 50%，用一條乾淨的水平線分開，不加邊框或拼貼裝飾。上半部完整保留原照，主體、構圖、比例、光線和顏色都不改，只輕微調色，並清掉浮水印和多餘文字。下半部以同一張照片為依據，把主體、輪廓、方向和顏色重組成現代抽象幾何藝術，帶包浩斯、瑞士平面設計和 Risograph 孔版印刷的感覺，不能留下任何寫實照片的區塊。幾何組合縮小集中，約佔下半部三成，周圍保留大片暖白紙面。只用圓、半圓、圓環、弧形、扇形、橢圓、三角形、彎月形、細線、虛線和圓點，不要用方形、矩形、格子或直角框。顏色從原照取，用同色系深淺做層次，避免俗氣漸層和螢光色。加一個 1～4 個字、和照片有關的英文標題，加少量英文小字或編號，用細長高對比的襯線字體（像 Didot、Bodoni），不對稱排版。紙張要有細緻纖維、輕微孔版顆粒和套印偏差。只輸出一張高畫質海報。",
+   "pen": "Make each uploaded photo into its own 3:4 vertical poster, split 50/50 by one clean horizontal line — no frames or collage effects. Top half: the original photo fully preserved (subject, composition, proportions, lighting, colors), with only a light grade and any watermarks or stray text removed. Bottom half: rebuild the same photo's subject, outlines, directions and colors as modern abstract geometry inspired by Bauhaus, Swiss graphic design and risograph printing — no photographic areas left. Keep the geometric cluster compact (about 30% of the area) with wide warm-white paper around it. Use only circles, half-circles, rings, arcs, wedges, ellipses, triangles, crescents, thin lines, dashed lines and dots — no squares, rectangles, grids or right-angle frames. Take colors from the photo and build depth with tonal shifts of the same hues; no cheap gradients or neon. Add a meaningful 1–4 word English title plus a little small English text or numbering in a slender high-contrast Didone serif (Didot / Bodoni style), asymmetric layout. Paper should show fine warm fibers, light riso grain and slight misregistration. Output one high-resolution poster.",
+   "fitEn": "Architecture, street scenes, landscapes, still life",
+   "effectEn": "Top: your photo. Bottom: the photo broken into abstract circles, arcs and triangles, with a risograph paper feel and a bold serif title.",
+   "optsEn": "Size of the geometric subject, English title, paper color (warm white / ivory)"
+  },
+  {
+   "id": "48",
+   "name": "極簡動勢版畫",
+   "en": "Riso Motion Field",
+   "cat": "design",
+   "tags": [
+    "people",
+    "travel"
+   ],
+   "fit": "跳躍、奔跑、海浪、落葉、在大空間裡的單一人物",
+   "color": "#e24d4d",
+   "effect": "上半原照；下半主體縮得很小（8～15%），周圍用細線、網點和顆粒畫出「一種」動勢——下墜、上升、流動、擴散或漣漪，孔版印刷 2～3 色。",
+   "opts": "動勢（下墜／上升／流動／擴散／漣漪）、主色",
+   "pzh": "把我上傳的每張照片各自做成一張 3:4 直式藝術海報，上下各佔一半。上半部忠實保留原照，只做低調的編輯調色。下半部從照片取出主體輪廓、姿態和一個核心動勢，重做成超現實的極簡 Risograph 版畫：主體縮小到下半部面積的 8～15%，約 75% 是暖白紙留白，不畫完整場景。依照片的方向感只選一種動勢：【向下墜落／垂直上升／往一個方向流動／從中心向外擴散／一圈不規則漣漪】，用細線、斷裂軌跡、粗網點和顆粒密度表現，靠近主體密、越往外越稀疏破碎，最後消失在留白裡。顏色只用照片中最好認的一個主色＋暖白紙＋少量黑色，深淺靠網點密度和油墨疊印，不用數位漸層。要有真實孔版和絲網印刷質感：油墨顆粒、紙纖維、覆蓋不均和輕微套色偏差。可以加一個極短英文標題和一兩組年份或編號，沿著主體軸線排；文字不穩定就不要加。避免主體太大、多個焦點、多種動勢疊加、3D 和亂碼。",
+   "pen": "Make each uploaded photo into its own 3:4 vertical art poster split evenly. Top: the original photo faithfully preserved with restrained editorial grading. Bottom: extract the subject's outline, posture and one core motion and rebuild it as a surreal minimal risograph print. Shrink the subject to 8–15% of the bottom area, leaving about 75% as warm white paper, with no full scene. Based on the photo's sense of direction, choose only one motion: [falling / rising / flowing one way / radiating outward / one irregular ripple], drawn with fine lines, broken trails, coarse halftone dots and grain density — dense near the subject, thinning and fragmenting outward until it vanishes into white. Use only the photo's most recognizable color plus warm paper and a little black; build tone with dot density and overprinting, never digital gradients. Show real riso and screen-print texture: ink grain, paper fiber, uneven coverage and slight misregistration. Optionally add a very short English title and one or two small year or number marks along the subject's axis — skip text if it won't render cleanly. Avoid oversized subjects, multiple focal points, stacked motions, 3D and garbled text.",
+   "fitEn": "Jumping, running, waves, falling leaves, one person in a big space",
+   "effectEn": "Top: your photo. Bottom: the subject shrunk to 8–15%, surrounded by fine lines, halftone dots and grain showing one kind of motion — falling, rising, flowing, spreading or rippling — in 2–3 riso colors.",
+   "optsEn": "Motion (falling / rising / flowing / spreading / ripples), main color"
+  },
+  {
+   "id": "30",
+   "name": "刺繡拼布",
+   "en": "Embroidery Patchwork",
+   "cat": "craft",
+   "tags": [
+    "pet",
+    "people"
+   ],
+   "fit": "寵物、人物、花、房子",
+   "color": "#c46a5a",
+   "effect": "上半原照；下半主體用大塊布片拼接＋粗針腳縫成，遠看也看得出是布和線。",
+   "opts": "主色（2～3 色）、布標小字",
+   "pzh": "把我上傳的每張照片各自做成一張 3:4 直式海報，上下各佔一半。上半部保留原照，只輕微調色。下半部只取最好認的主體輪廓、姿勢、髮型、服裝和道具，改做成手縫刺繡拼布海報：主體由大塊布片拼接，加上很粗的針腳縫線（回針、鎖鏈針、平針、十字針），要看得到貼布繡、毛邊布塊、外露線頭、布邊不齊和縫線壓邊，遠看也能看出是布和線做的。可以加一兩顆鈕扣或小布標，但要克制。背景是暖白或淺亞麻布，大量留白，主體只佔一小部分。只用 2～3 個主色＋深灰或黑色線＋暖白布底，原照顏色太多就主動捨棄。可以在留白處加一個小布標，寫日期或短句。不要精緻唯美插畫、光滑數位畫、看不出針腳、縫線太細、填滿畫面、主體太大、高飽和多色和 3D。",
+   "pen": "Make each uploaded photo into its own 3:4 vertical poster split top and bottom. Top: the original photo with a light grade. Bottom: take only the key outline, pose, hairstyle, clothing and props and rebuild them as a hand-stitched embroidery patchwork poster. Build the subject from large fabric pieces joined with thick, visible stitches (backstitch, chain stitch, running stitch, cross-stitch) — clear appliqué, frayed fabric edges, loose thread ends, uneven hems and stitched seams, readable as fabric and thread even from a distance. A button or small fabric label is fine, sparingly. Warm white or light linen background with lots of empty space; the subject stays small. Use only 2–3 main colors plus dark grey or black thread on warm white fabric — drop extra colors from the photo. Optionally add a small fabric label with a date or short phrase in the empty space. Avoid delicate pretty illustration, smooth digital painting, invisible or thin stitches, filled layouts, oversized subjects, many saturated colors and 3D.",
+   "fitEn": "Pets, people, flowers, houses",
+   "effectEn": "Top: your photo. Bottom: the subject pieced together from big fabric patches and thick stitches — you can tell it's cloth and thread even from afar.",
+   "optsEn": "Main colors (2–3), small fabric-label text"
+  },
+  {
+   "id": "46",
+   "name": "紙膠帶重組",
+   "en": "Washi Tape Rebuild",
+   "cat": "craft",
+   "tags": [
+    "pet",
+    "food",
+    "street"
+   ],
+   "fit": "寵物、一杯飲料、一朵花、一棟建築",
+   "color": "#e7a0a8",
+   "effect": "上半原照；下半主體完全用 10～18 片和紙膠帶拼出來，沒有任何線條，大量留白。",
+   "opts": "膠帶花紋（純色／條紋／格紋／圓點）",
+   "pzh": "用我上傳的照片做一張 3:4 直式和紙膠帶拼貼對比作品，上下兩塊一樣大。上半部完整呈現原照，不重畫、不修改。下半部以照片為基礎，保留最好認的主體、數量、輪廓、姿勢、方向和主要配色；複雜場景只留 1～3 個關鍵特徵，最多加 1～2 個簡化的環境元素。主體完全用大約 10～18 片清楚的中等大小和紙膠帶拼成，再用少量細膠帶勾邊和關鍵結構；用膠帶色塊、剪裁形狀、疊貼順序、留白和半透明疊色表現立體感，不用鉛筆、墨線、黑色輪廓或筆觸，也不要剪成太碎的馬賽克。膠帶有真實紙纖維、輕微磨損、少許撕邊、細摺痕和柔和疊影，全部平貼在紙上，不要做成立體紙雕。背景是乾淨的暖白筆記本紙，留白約 65～80%，拼貼主體約佔寬度 40～55%，放中間或略偏下。從原照取 4～6 個低飽和色，以純色膠帶為主，可少量條紋、格紋或圓點，最多一個暖色點綴。不要文字、收據、郵票、標籤、貼紙、logo 或浮水印。",
+   "pen": "Create a 3:4 vertical washi-tape collage comparison from my photo, two equal stacked sections. Top: the original photo, untouched. Bottom: based on the photo, keep the most recognizable subject, count, outline, pose, direction and main colors; for complex scenes keep only 1–3 key features plus at most 1–2 simplified surroundings. Build the subject entirely from about 10–18 clearly visible medium washi-tape pieces, with a few narrow strips for edges and key structure. Create volume through tape color, cut shapes, layering order, gaps and translucent overlaps — no pencil, ink lines, black outlines or brushwork, and no tiny mosaic fragments. Tape shows real paper fiber, light wear, a few torn ends, fine creases and soft overlap shadows, all laid flat — not 3D paper sculpture. Clean warm white notebook paper with 65–80% empty space; the collage spans about 40–55% of the width, centered or slightly low. Use 4–6 desaturated colors from the photo, mostly solid tape with a few stripes, checks, grids or dots and at most one warm accent. No text, receipts, stamps, labels, stickers, logos or watermarks.",
+   "fitEn": "A pet, a drink, a flower, a building",
+   "effectEn": "Top: your photo. Bottom: the subject built entirely from 10–18 strips of washi tape — no lines at all, lots of white space.",
+   "optsEn": "Tape pattern (solid / stripes / plaid / dots)"
+  },
+  {
+   "id": "47",
+   "name": "羊毛氈定格動畫",
+   "en": "Needle-Felt Stop Motion",
+   "cat": "craft",
+   "tags": [
+    "pet",
+    "people",
+    "travel"
+   ],
+   "fit": "寵物、家人合照、公園、野餐",
+   "color": "#9db87a",
+   "effect": "整個場景嚴格照原構圖，改用手工針刺羊毛氈做成迷你模型，像獨立定格動畫電影的一格。",
+   "opts": "場景簡化程度",
+   "pzh": "以我上傳的圖片為嚴格藍圖，把同一個場景改做成手工針刺羊毛氈的定格動畫畫面。場景類型、主體數量、位置、大小比例、姿勢、動作、方向、前後遮擋、拍攝角度和構圖都不能改；戶外不能變室內，不新增、移除或移動人物、動物和家具，只能簡化細節。所有東西都用真實的羊毛氈微縮模型重做：看得到羊毛纖維、細絨毛、針刺壓痕、毛邊和略不規則的手工造型，不是在照片上加模糊濾鏡。人物是簡單的手工木偶風：豆豆眼、極簡口鼻，頭髮是一整塊羊毛，衣服是簡單色塊，身體結構正常：兩隻手、兩隻腳。動物保留數量、位置和方向，簡化成圓潤的羊毛造型。背景保留原場景的意思但大幅簡化，例如草地變成一片低飽和綠色羊毛氈加幾個淺色毛點。用低飽和色調、柔和側光、淺景深和復古底片顆粒，呈現桌上微縮場景攝影的真實感。不要黏土、鉤針、塑膠公仔、光滑 3D、真實草葉、文字或浮水印。",
+   "pen": "Using my image as a strict blueprint, recreate the same scene as a handmade needle-felt stop-motion frame. Keep the scene type, number of subjects, positions, scale, poses, actions, directions, overlaps, camera angle and composition — outdoor stays outdoor; don't add, remove or move people, animals or furniture; only simplify detail. Remake everything as realistic needle-felted miniatures with visible wool fibers, fine fuzz, needle marks, soft edges and slightly irregular handmade shapes — not a blur filter on a photo. People are simple handmade puppets: dot eyes, minimal nose and mouth, hair as one solid wool shape, clothing as simple felt color blocks, with correct anatomy — exactly two arms and two legs. Animals keep their count, position and direction but simplify into rounded felt forms. Keep the meaning of the background but simplify it heavily — grass becomes a low-saturation green felt surface with a few pale wool dots. Muted tones, soft side light, shallow depth of field and vintage film grain, like real tabletop miniature photography. No clay, crochet, plastic figures, glossy 3D, real grass blades, text or watermarks.",
+   "fitEn": "Pets, family photos, parks, picnics",
+   "effectEn": "The whole scene, keeping the exact composition, remade as a handmade needle-felted miniature, like a frame from an indie stop-motion film.",
+   "optsEn": "How much to simplify the scene"
+  },
+  {
+   "id": "25",
+   "name": "色場剪紙拼貼",
+   "en": "Color-Field Paper Cut",
+   "cat": "craft",
+   "tags": [
+    "pet",
+    "food",
+    "people"
+   ],
+   "fit": "寵物、單一人物、花、甜點、建築",
+   "color": "#e36b4f",
+   "effect": "上半原照；下半上方大片近白留白、底部一整條純色「基座」，主體用剪紙拼貼做成，站在色塊交界上。",
+   "opts": "基座顏色、要不要加一個小字",
+   "pzh": "把我上傳的每張照片各自做成一張 3:4 直式海報，上下各佔一半，中間直接相接。上半部保留原照，只輕微調色。下半部把主體和最重要的輪廓、姿勢，重做成剪紙拼貼：刪掉大部分背景，只用幾片完整的剪紙形狀、紙片疊層和少量紋理來表現，邊緣有手工剪裁的不規則感和細緻紙紋，不要寫實透視和立體陰影。下半部內部再分成兩塊色場：上方是大片近白的留白，底部是一整條橫貫畫面的純色「基座」，邊界是水平直線。主體放在兩塊色場的交界附近，可以跨過去；需要的話在主體後面加一塊小的幾何背景板。從照片取 2～4 個最有生命力的顏色，調成柔和明亮的粉彩色。文字極少，可以從主體、地點或情緒取一兩個字，安靜地放在留白處。避免完整場景、複雜背景、漸層、厚重陰影、填滿畫面、卡通感和 3D。",
+   "pen": "Make each uploaded photo into its own 3:4 vertical poster, split evenly top and bottom and joined directly. Top: the original photo with a light grade. Bottom: rebuild the subject and its key outline and pose as cut-paper collage — remove most of the background and use a few whole paper shapes, layered sheets and a little texture, with slightly irregular hand-cut edges and fine paper grain, no realistic perspective or 3D shadows. Split the bottom into two color fields: a large near-white space above and one solid full-width color \"base\" along the bottom, divided by a straight horizontal edge. Place the subject near that boundary, free to cross it; add one small geometric backing shape behind it if needed. Pull 2–4 lively colors from the photo and soften them into bright, clean pastels. Keep text minimal — one or two words from the subject, place or mood, set quietly in the empty space. Avoid full scenes, busy backgrounds, gradients, heavy shadows, filled layouts, cartoon looks and 3D.",
+   "fitEn": "Pets, a single person, flowers, desserts, buildings",
+   "effectEn": "Top: your photo. Bottom: a big near-white space above a solid color \"base\" strip, with the subject made from cut paper standing right on the edge.",
+   "optsEn": "Base color, add a small line of text or not"
+  },
+  {
+   "id": "54",
+   "name": "層疊紙雕",
+   "en": "Layered Paper Sculpture",
+   "cat": "craft",
+   "tags": [
+    "travel",
+    "street"
+   ],
+   "fit": "建築、山景、花、動物、海邊",
+   "color": "#5f8a4e",
+   "effect": "上半原照；下半主體用折、剪、疊的手工卡紙做成前中後景，有柔和接觸陰影和紙張厚度，配精緻小字排版。",
+   "opts": "主標題、紙色",
+   "pzh": "為我上傳的每張照片各做一張 3:4 直式高級設計海報，上下各佔一半。上半部保留原照的結構、質感、光影和色彩，只輕微調色，需要時自然延伸天空或地面，不要拉伸主體。下半部取出最好認的主體、輪廓、姿勢和故事，重做成極簡的手工層疊剪紙紙雕：以一個核心主體當視覺錨點，用折、切、疊和遮擋重新詮釋它的輪廓和比例，不要機械地複製細節；再從原照挑幾個環境關係，變成前景、中景、背景三層紙，靠大小差、正負形、前後遮擋和大量留白建立層次。顏色從照片取最鮮明好認的幾個，變成和諧的紙張組合，底色用暖象牙或淺色紙。用細緻霧面卡紙，看得到紙纖維、乾淨切邊和柔和接觸陰影，自然漫射光，表現折紙層的厚度。從照片的主體、地點或氛圍提煉一個簡短主標題，加 2～4 組很小的輔助字，排成精緻的編輯版面。避免塑膠 3D、廉價卡紙、螢光色和複雜漸層。",
+   "pen": "Create a 3:4 vertical premium design poster for each uploaded photo, split evenly. Top: keep the original's structure, texture, lighting and color with only subtle grading; extend sky or ground if needed without stretching the subject. Bottom: take the most recognizable subject, outline, pose and story and rebuild them as minimal handmade layered paper-cut sculpture. Use one core subject as the anchor, reinterpreting its outline and proportions through folding, cutting, layering and masking rather than copying details; then turn a few environmental relationships into foreground, midground and background paper layers, building hierarchy through scale contrast, positive/negative shapes, overlaps and large empty space. Pull the most vivid, recognizable colors from the photo into a harmonious paper set on a warm ivory or pale base. Use fine matte cardstock with visible fibers, clean cut edges and soft contact shadows under natural diffuse light to show layer thickness. Distill a short main title from the subject, place or mood, with 2–4 tiny supporting text groups in a refined editorial layout. Avoid plastic 3D, cheap card, neon colors and complex gradients.",
+   "fitEn": "Buildings, mountains, flowers, animals, the beach",
+   "effectEn": "Top: your photo. Bottom: the subject folded, cut and layered from card stock into fore-, mid- and background, with soft contact shadows, paper thickness and refined small type.",
+   "optsEn": "Main title, paper color"
+  },
+  {
+   "id": "26",
+   "name": "第二世界",
+   "en": "Photo Object + Tiny Doodle People",
+   "cat": "mix",
+   "tags": [
+    "travel",
+    "street"
+   ],
+   "fit": "海、湖、天空、樹影、地標建築",
+   "color": "#2a7f8f",
+   "effect": "上半原照；下半米白紙上，照片裡的一塊「材料」（水面、樹影、建築）被拿出來變成有厚度、會捲起的立體照片片，旁邊有黑線小人在拉它、推它、划船進去。",
+   "opts": "小人數量（0～2）、英文手寫旁白",
+   "pzh": "用我上傳的照片做一張 3:4 直式「第二世界」海報，上下各佔一半。上半部是原照本身，只能等比例裁切，不重畫、不改成插畫。下半部是暖米白紙張，大量留白。先找出照片裡最好認的主體（地標、人物、動物、物件），沒有的話才用水紋、樹冠、雲、影子、倒影這類結構。把它拿出來，在下半部變成一個「可以摸、可以用的照片物體」：保留原照的真實攝影紋理，但有明顯的立體感，像一片被拿出來的照片薄片、布片、窗口或洞口，有邊緣厚度、輕微捲起或折起、自然投影，和紙面有接觸感。加 1～2 個極簡的黑色線條小人，真的在和這個物體互動，例如拉開、撐住、鋪平、划進去、修補。加一句簡短、輕鬆、帶點幽默的英文手寫旁白，不要心靈雞湯。主體身分不能變，第一眼就要認得出來。不要整張重畫成插畫、不要只是撕紙加小人、不要亂加星星愛心。",
+   "pen": "Create a 3:4 vertical \"Second World\" poster from my photo, split evenly. Top: the photo itself — proportional cropping only, no redrawing. Bottom: warm off-white paper with plenty of empty space. First find the photo's most recognizable subject (landmark, person, animal, object); only if there isn't one, use a structure like ripples, treetops, clouds, shadows or reflections. Lift it out and turn it into a tangible \"photo object\" on the paper: keep the real photographic texture, but give it clear 3D form — like a slice of photo, fabric, window or opening pulled out of the image — with edge thickness, a slight curl or fold, a natural cast shadow and contact with the paper. Add 1–2 minimal black line-drawn tiny people genuinely interacting with it — pulling it open, propping it up, smoothing it flat, rowing into it, patching it. Add one short, light, slightly funny handwritten English caption (no inspirational quotes). The subject's identity must stay instantly recognizable. Don't redraw the whole image, don't just do \"torn paper + stick figures,\" and don't add random stars or hearts.",
+   "fitEn": "Sea, lakes, sky, tree shadows, landmarks",
+   "effectEn": "Top: your photo. Bottom: on off-white paper, one \"material\" from the photo (water, tree shadow, a building) is lifted out as a thick, curling photo piece, with little line-drawn people pulling it, pushing it or rowing into it.",
+   "optsEn": "Number of little people (0–2), handwritten English caption"
+  },
+  {
+   "id": "33",
+   "name": "突破畫框",
+   "en": "Subject Breaking the Frame",
+   "cat": "mix",
+   "tags": [
+    "travel",
+    "people"
+   ],
+   "fit": "樹枝、花、人物、路燈、海浪",
+   "color": "#5c6f3d",
+   "effect": "白色畫布中間一個矩形照片窗口，照片裡的主體（樹枝、人物、花）被摳出來，一部分跑出矩形外面。",
+   "opts": "矩形大小和位置",
+   "pzh": "只用我上傳的照片，重新排成一張有攝影拼貼感和現代平面設計感的「主體突破畫框」作品，不要只是加一個框。先找出照片裡最適合突破畫框的主體（例如樹枝、人物、建築、花、山、海浪、路燈）。整體背景是大片乾淨的白或暖白。畫面中間放一個簡潔的大矩形照片窗口，裡面保留原照的局部場景和背景。把主體精準摳出來放在窗口上層：一部分在矩形裡，另一部分自然越過矩形邊緣，伸到外面的白色區域。矩形邊界要乾淨筆直，但主體經過的地方不被裁掉，形成真實的前後圖層穿插。主體的形狀、姿態、比例、紋理和顏色都不改，不要重畫成插畫，不要加陰影讓它像浮起來的卡片，不要重複的樹枝、人或多餘的手腳。矩形位置和大小可以依構圖調整，讓突破的地方最自然、最有張力。",
+   "pen": "Using only my photo, redesign it as a \"subject breaking the frame\" piece with photo-collage and modern graphic-design feel — not just a border. First pick the subject best suited to break out (a branch, person, building, flower, mountain, wave, street lamp). Make the background a large, clean white or warm white. Place a simple large rectangular photo window in the middle showing part of the original scene. Precisely cut out the subject and layer it above the window: part of it inside the rectangle, part naturally extending past the edge into the white space. Keep the rectangle's edges clean and straight, but don't clip the subject where it crosses, creating real layered overlap. Keep the subject's shape, pose, proportions, texture and colors; don't redraw it, don't add drop shadows that make it a floating card, and no duplicated branches, people or extra limbs. Adjust the rectangle's size and position so the break-out feels most natural and striking.",
+   "fitEn": "Branches, flowers, people, street lamps, waves",
+   "effectEn": "A rectangular photo window in the middle of a white canvas, with the subject (a branch, a person, a flower) cut out so part of it reaches outside the frame.",
+   "optsEn": "Size and position of the rectangle"
+  },
+  {
+   "id": "23",
+   "name": "插畫 × 實景合成",
+   "en": "Line Art on Real Photo",
+   "cat": "mix",
+   "tags": [
+    "food",
+    "travel",
+    "street"
+   ],
+   "fit": "街景、窗景、咖啡杯、天空、牆面（背景越乾淨越好）",
+   "color": "#3f8fb5",
+   "effect": "在一張真實照片上，畫一個白色線條的插畫角色，再加復古大標題和手寫小字，像雜誌拼貼海報。",
+   "opts": "角色、大標題、手寫小字",
+   "pzh": "做一張混合媒材的雜誌風海報，構圖乾淨極簡：在【我上傳的真實照片／一個真實背景】上，疊一個用白色線條畫的極簡插畫【角色，例如：一隻戴帽子的貓】。加一行大大的復古襯線字標題「【大標題】」，和一行小小的手寫字「【小字】」。再點綴兩三個很淡的手繪小塗鴉。所有元素周圍都留大量空白，越少越好。整體帶一點魏斯．安德森的對稱感、拼貼感和編輯極簡風。",
+   "pen": "A clean, minimal mixed-media editorial poster: a minimalist white-outline line-art illustration of [CHARACTER, e.g. a cat in a hat] overlaid on [my uploaded real photo / a real background]. Add a large retro serif headline \"[HEADLINE]\" and a small handwritten caption \"[CAPTION]\", plus two or three subtle hand-drawn doodles. Generous white space and breathing room around everything — less is more. Symmetrical Wes Anderson feel meets collage and editorial minimalism.",
+   "fitEn": "Street scenes, windows, coffee cups, sky, walls — the cleaner the background, the better",
+   "effectEn": "A white line-drawn character on top of a real photo, plus a big retro title and small handwritten text, like a magazine collage poster.",
+   "optsEn": "Character, big title, small handwritten text"
+  },
+  {
+   "id": "55",
+   "name": "攝影 × 塗鴉小人",
+   "en": "Photo + Doodle Characters",
+   "cat": "mix",
+   "tags": [
+    "food",
+    "pet",
+    "people"
+   ],
+   "fit": "寵物、食物、飲料、玩偶、單一人物",
+   "color": "#c98a3c",
+   "effect": "上半原照；下半把真實主體去背重新擺位（保持照片質感），旁邊加幾個黑線塗鴉小人和它互動，講一個新的小故事。",
+   "opts": "小人數量、一句英文手寫旁白",
+   "pzh": "為我上傳的照片做一張 3:4 直式高級編輯海報，上下各佔一半，乾淨明亮、大量留白。上半部最大程度保留原照，只做輕微攝影調色，主體的臉、身體、服裝和動物特徵都不改。下半部先想清楚這張照片真正的故事核心（一個動作、關係、情緒或瞬間），圍繞它重新設計，像「同一張照片被重新想像了一次」：保留原照最重要的真實主體和攝影質感，可以去背、調整位置和大小、簡化背景，但一眼要認得出來，不要把主體變成插畫。在主體旁邊加 1～3 個極簡的黑色線條塗鴉小人，真的和主體互動（例如搬它、爬上去、幫它撐傘、排隊看它），讓畫面幽默、有故事。背景是暖白紙，可加一句簡短輕鬆的英文手寫旁白。不要亂加裝飾、星星愛心、廣告感和太多元素。",
+   "pen": "Create a 3:4 vertical premium editorial poster from my photo, split evenly — clean, bright and spacious. Top: the original photo preserved as much as possible with only light photographic grading; don't change faces, bodies, clothing or animal features. Bottom: first identify the photo's real story core (an action, relationship, emotion or moment) and redesign around it, as if \"the same photo has been reimagined once more\": keep the most important real subject with its photographic texture — you may cut it out, reposition, rescale and simplify the background — but it must be instantly recognizable and never turned into an illustration. Add 1–3 minimal black line-drawn doodle people genuinely interacting with it (carrying it, climbing it, holding an umbrella over it, queuing to see it) for humor and story. Warm white paper background, optionally with one short, light handwritten English caption. No random decorations, stars, hearts, ad looks or clutter.",
+   "fitEn": "Pets, food, drinks, plush toys, a single person",
+   "effectEn": "Top: your photo. Bottom: the real subject cut out and re-posed (still photographic), with a few black-line doodle characters interacting with it to tell a new little story.",
+   "optsEn": "Number of doodle characters, one handwritten English caption"
+  },
+  {
+   "id": "42",
+   "name": "撕邊明信片＋郵戳",
+   "en": "Torn-Edge Postcard",
+   "cat": "travel",
+   "tags": [
+    "travel",
+    "street"
+   ],
+   "fit": "旅行照、地標、風景",
+   "color": "#2e4a7d",
+   "effect": "上方原照底部是手撕紙邊，下方象牙白留白有打字機小字、小小的絹印插畫，交界處蓋一個磨損的藍黑郵戳，底部寫地點和日期。",
+   "opts": "地點、日期、主體名稱",
+   "pzh": "把我上傳的照片做成一張 3:4 直式藝術明信片。上半部完整保留原照，約佔畫面高度 55%，照片底部是自然、不規則、看得到紙纖維的手撕邊。撕邊下方是象牙白留白，用小號復古打字機字寫主體名稱「【名稱】」。下半部畫一個小小的無框插畫，依照片主體畫，保留好認的輪廓、適度簡化，帶絹印質感、輕微顆粒和低傳真印刷感，顏色從照片取 2～4 個低飽和柔和色；插畫約佔下半部高度一半，四周大量留白。在右側撕紙邊、剛好上下交界的地方，蓋一個低調、有點磨損的藍黑色圓形郵戳。底部用固定格式寫「【地點】 · PLACE」「【日期】 · DATE」。整體是溫暖的舊紙質感、充足留白、克制的雜誌編輯風。不要郵票、座標、外框、立體樣機、厚重陰影、捲角、多餘的章、重複文字或浮水印。",
+   "pen": "Turn my photo into a 3:4 vertical art postcard. Top: the full original photo at about 55% of the height, with a natural, irregular torn bottom edge showing paper fibers. Below the tear, an ivory margin with the subject name \"[NAME]\" in small vintage typewriter type. Bottom: a small borderless illustration of the photo's subject — recognizable silhouette, simplified detail, screen-print texture, light grain and lo-fi print feel, using 2–4 soft desaturated colors from the photo — about half the bottom height, with lots of space around. On the right side of the torn edge, exactly where the two halves meet, add a subtle, slightly worn blue-black circular postmark. Along the bottom, use the format \"[PLACE] · PLACE\" and \"[DATE] · DATE\". Warm vintage paper feel, generous space, restrained editorial style. No stamps, coordinates, outer frames, 3D mockups, heavy shadows, curled corners, extra postmarks, repeated text or watermarks.",
+   "fitEn": "Travel photos, landmarks, landscapes",
+   "effectEn": "The photo on top with a hand-torn bottom edge; below, ivory space with small typewriter text and a tiny screen-printed illustration, a worn blue-black postmark across the edge, and the place and date at the bottom.",
+   "optsEn": "Place, date, subject name"
+  },
+  {
+   "id": "52",
+   "name": "旅行冰箱貼",
+   "en": "Travel Fridge Magnet",
+   "cat": "travel",
+   "tags": [
+    "street",
+    "people",
+    "pet"
+   ],
+   "fit": "旅行地標、打卡照、寵物",
+   "color": "#f08a4b",
+   "effect": "從照片抽出最好認的主體（人、動物、地標），做成一個小小的扁平冰箱貼，放在照片主色的純色背景上，下面一行「地名, 時間」。",
+   "opts": "",
+   "pzh": "做一張橫式 3:2 的「旅行紀念冰箱貼」打卡海報，像 IG 上極簡的城市明信片，乾淨、明亮、療癒。背景是從我上傳的照片中取出的主色，純色、沒有漸層、紋理或裝飾。從照片抽出最好認的主體（人物、動物、建築或地標），做成一個小巧精緻的冰箱貼圖示：保留核心輪廓、招牌特徵和姿態，適度簡化細節，不要過度卡通化；扁平簡約、線條俐落，外圍有清楚的淺色描邊，下方加一點輕微投影，像真的冰箱貼。圖示放在畫面中間偏上，尺寸小，周圍大量留白。圖示下方置中加一行纖細的英文「【地名】, 【時間】」，用簡約無襯線字，顏色和背景形成柔和對比。",
+   "pen": "Create a 3:2 landscape \"travel fridge magnet\" check-in poster in the style of a minimal Instagram city postcard — clean, bright and soothing. Background: one solid color taken from the dominant color of my photo, with no gradient, texture or decoration. Extract the most recognizable subject (person, animal, building or landmark) and turn it into a small, refined fridge-magnet icon: keep its core outline, signature features and pose, simplify details without over-cartooning; flat and minimal with crisp lines, a clear light-colored outline border and a slight drop shadow below so it looks like a real magnet. Place the icon small, slightly above center, with plenty of empty space. Centered below it, add one line of thin English text \"[PLACE], [TIME]\" in a simple sans-serif with soft contrast against the background.",
+   "fitEn": "Travel landmarks, check-in photos, pets",
+   "effectEn": "The most recognizable subject (a person, an animal, a landmark) made into a small flat fridge magnet on a solid background in the photo's main color, with \"Place, Date\" underneath.",
+   "optsEn": ""
+  },
+  {
+   "id": "14",
+   "name": "90 年代拍立得",
+   "en": "90s Polaroid",
+   "cat": "travel",
+   "tags": [
+    "travel",
+    "street",
+    "people"
+   ],
+   "fit": "任何生活照，特別是夜景、聚會、旅行",
+   "color": "#d9a441",
+   "effect": "太乾淨的手機照變成像 90 年代的拍立得：顆粒、邊緣微糊、漏光、白框。",
+   "opts": "漏光位置與顏色、是否加手寫日期",
+   "pzh": "把我上傳的照片改成像 1990 年代拍立得拍出來的樣子，人物和畫面內容都不改。加入明顯的底片顆粒、邊緣輕微失焦、色彩稍微褪色偏暖，右下角有一道淡淡的【黃色】漏光，閃光燈感的高光，整體帶一點不完美。外面加上拍立得白框，下方白邊【用藍色原子筆手寫日期「【日期】」／留白】。不要看起來像濾鏡或 AI 修圖。",
+   "pen": "Make my photo look like it was shot on a 1990s Polaroid without changing the people or content. Add visible film grain, slightly soft edges, faded warm colors, a faint [yellow] light leak in the bottom-right corner and direct-flash highlights — a bit imperfect. Place it in a white Polaroid frame with [a handwritten date \"[DATE]\" in blue ballpoint on the bottom border / an empty bottom border]. It should not look like a filter or AI retouch.",
+   "fitEn": "Any everyday photo — especially night shots, parties and trips",
+   "effectEn": "A too-clean phone photo becomes a 90s Polaroid: grain, soft edges, light leaks and a white frame.",
+   "optsEn": "Light-leak position and color, add a handwritten date or not"
+  },
+  {
+   "id": "49",
+   "name": "復古郵票",
+   "en": "Vintage Travel Stamp",
+   "cat": "travel",
+   "tags": [
+    "travel",
+    "street"
+   ],
+   "fit": "地標、風景、街景",
+   "color": "#6f9f8a",
+   "effect": "上半原照；下半把同一個場景做成一枚手工復古旅行郵票：齒孔邊、面額、地名，放在留白的紙上。",
+   "opts": "地名、面額、年份",
+   "pzh": "用我上傳的照片做一張 3:4 直式高級編輯海報，上下各佔一半。上半部完整保留原照，人物、姿勢、構圖、光線、顏色和攝影質感都不改，只做專業調色。下半部把同一個場景做成一枚懷舊的手工旅行郵票插畫：郵票有白色齒孔邊，裡面是簡化後的場景，保留主體輪廓和最好認的特徵，用平塗色塊、細線和輕微的凹版／絲網印刷質感，顏色從照片取 3～5 個柔和色。郵票上印小小的地名「【地名】」、面額「【面額，例如 12】」和年份「【年份】」，字體是復古襯線或小號無襯線，拼字正確。郵票放在暖白紙張中間，四周大量留白，可以加一個淡淡的圓形郵戳壓在郵票一角。不要多張郵票、亂碼、logo 或浮水印。",
+   "pen": "Create a 3:4 vertical premium editorial poster from my photo, split evenly. Top: the original photo preserved exactly — subject, pose, composition, lighting, colors and photographic texture — with only professional grading. Bottom: turn the same scene into one nostalgic handmade travel stamp: white perforated edges framing a simplified scene that keeps the subject's outline and key features, rendered in flat color, fine lines and a light engraved/screen-print texture, with 3–5 soft colors from the photo. Print a small place name \"[PLACE]\", a denomination \"[VALUE, e.g. 12]\" and year \"[YEAR]\" in a vintage serif or small sans-serif, spelled correctly. Center the stamp on warm white paper with lots of space, optionally with a faint circular postmark over one corner. No multiple stamps, garbled text, logos or watermarks.",
+   "fitEn": "Landmarks, landscapes, street scenes",
+   "effectEn": "Top: your photo. Bottom: the same scene as a handmade vintage travel stamp — perforated edges, a value and a place name — on blank paper.",
+   "optsEn": "Place name, value, year"
+  },
+  {
+   "id": "56",
+   "name": "橡皮章旅行手帳",
+   "en": "Rubber Stamp Travel Journal",
+   "cat": "travel",
+   "tags": [
+    "travel",
+    "street",
+    "pet"
+   ],
+   "fit": "旅行風景、建築、植物、寵物",
+   "color": "#c4572f",
+   "effect": "一邊是原照；另一邊同一個場景變成像手刻橡皮章蓋在手帳上的圖案，墨色不均、邊緣有缺，配手寫小字。",
+   "opts": "版面（上下 3:4 ／左右 4:3）、印泥顏色（1～2 色）",
+   "pzh": "為我上傳的照片做一張「橡皮章旅行手帳海報」，版面是【3:4 直式上下各半／4:3 橫式左右各半】，兩邊自然融合，不要明顯分隔線。原照那一半忠實保留地形、建築、植物、人物、空間關係、光線和顏色，只輕微調色。另一半是暖白手帳紙，把同一個場景簡化成 1～3 個像手刻橡皮章蓋出來的圖案：輪廓清楚但簡化，線條有刻刀感，墨色不均勻、局部缺墨、邊緣有小缺口和輕微重影，像真的蓋在紙上。只用【1～2 種印泥色】，顏色取自照片。圖章周圍留白，可以加一行手寫或打字機小字寫地點和日期「【地點】／【日期】」，再點綴一兩個小小的日期章或圓點章。不要寫實插畫、向量、3D、太多圖章、亂碼和浮水印。",
+   "pen": "Create a \"rubber stamp travel journal poster\" from my photo in a [3:4 vertical top/bottom / 4:3 landscape left/right] split, blending naturally without a hard divider. The photo half faithfully preserves terrain, architecture, plants, people, spatial relationships, light and color, with only light grading. The other half is warm white journal paper with the same scene simplified into 1–3 motifs that look hand-carved and stamped: clear but simplified outlines, carved-knife line quality, uneven ink, patchy coverage, small chipped edges and slight double impressions — like real stamps on paper. Use only [1–2 ink colors] taken from the photo. Keep space around the stamps; optionally add one small handwritten or typewriter line with \"[PLACE] / [DATE]\" and one or two tiny date or dot stamps. No realistic illustration, vectors, 3D, too many stamps, garbled text or watermarks.",
+   "fitEn": "Travel scenery, buildings, plants, pets",
+   "effectEn": "One side: your photo. Other side: the same scene as a hand-carved rubber stamp printed in a journal — uneven ink, chipped edges, small handwritten notes.",
+   "optsEn": "Layout (top/bottom 3:4 / side by side 4:3), ink colors (1–2)"
+  },
+  {
+   "id": "13",
+   "name": "LINE 貼圖組",
+   "en": "Sticker Sheet",
+   "cat": "char",
+   "tags": [
+    "people",
+    "pet"
+   ],
+   "fit": "臉部清楚的人像或寵物",
+   "color": "#ff8fb1",
+   "effect": "用一張照片做出同一角色的 8 種表情貼圖，白邊、透明背景，方便之後裁切。",
+   "opts": "畫風（Q 版平塗／水彩／粗線卡通）、8 個表情和文字",
+   "pzh": "根據我上傳的照片，把人物（或寵物）畫成一個可愛的 Q 版角色，保留髮型、臉型和明顯特徵，身體結構正常：兩隻手、兩隻腳。做成一張 4×2 共 8 格的貼圖表：每格是同一個角色的不同表情和動作，分別是【開心揮手／謝謝／OK／大哭／生氣／害羞／累癱／愛心】，每格配一句短的繁體中文字：【嗨嗨／謝謝你／OK 啦／嗚嗚嗚／哼／害羞～／累了／愛你】。每個角色外圍加粗白邊，背景純白（方便去背），格子之間留足空隙，角色不要互相重疊，文字清楚好讀、不要亂碼。畫風：【粗線條平塗卡通】，配色明亮。",
+   "pen": "Based on my photo, draw the person (or pet) as one cute chibi character, keeping their hairstyle, face shape and distinctive features, with correct anatomy — exactly two arms and two legs. Create a 4×2 sticker sheet of 8 cells, each the same character with a different expression and pose: [happy wave / thank you / OK / crying / angry / shy / exhausted / heart]. Add one short caption per cell: [Hi / Thanks / OK / Waaah / Hmph / So shy / Tired / Love you]. Give each character a thick white outline on a pure white background (for easy cutout), with generous spacing so nothing overlaps. Clear, legible text with no gibberish. Style: [bold-outline flat cartoon], bright colors.",
+   "fitEn": "Portraits or pets with a clear face",
+   "effectEn": "One photo turned into 8 expression stickers of the same character, with white borders and a transparent background, ready to cut out.",
+   "optsEn": "Style (chibi flat color / watercolor / bold cartoon), the 8 expressions and their text"
+  },
+  {
+   "id": "12",
+   "name": "盒裝公仔",
+   "en": "Boxed Action Figure",
+   "cat": "char",
+   "tags": [
+    "people",
+    "pet"
+   ],
+   "fit": "清楚的全身或半身照、寵物照",
+   "color": "#5b4bd6",
+   "effect": "把人（或寵物）變成放在透明開窗包裝盒裡的收藏公仔，盒上有名字和配件。",
+   "opts": "比例（Q 版大頭／正常比例）、包裝主題色、盒上名字、3 個配件",
+   "pzh": "把我上傳照片中的人物做成一個收藏級公仔，放在零售包裝盒裡。公仔要保留本人的長相特徵、髮型和穿著，做成【Q 版大頭／正常比例】，大眼睛、表情生動，質感像真實的塑膠玩具，身體結構正常：兩隻手、兩隻腳。包裝盒是【主題色】的厚紙盒，正面有透明塑膠開窗，盒子上方印著名字「【名字】」，公仔旁邊的卡槽放 3 個配件：【配件1】、【配件2】、【配件3】（從我的興趣或照片裡的物品挑）。用商品攝影打光，背景簡單乾淨，比例 3:4。",
+   "pen": "Turn the person in my photo into a collectible action figure inside retail packaging. Keep their facial features, hairstyle and outfit; make it [chibi big-head / regular proportions] with large expressive eyes and a realistic plastic-toy finish, with correct anatomy — exactly two arms and two legs. The box is [THEME COLOR] cardboard with a clear plastic window, the name \"[NAME]\" printed at the top, and three accessories in molded slots beside the figure: [ITEM 1], [ITEM 2], [ITEM 3]. Clean product-photography lighting, simple background, 3:4 ratio.",
+   "fitEn": "A clear full- or half-body photo, or a pet photo",
+   "effectEn": "You (or your pet) as a collectible figure in a clear-window box, with a name and accessories on the package.",
+   "optsEn": "Proportions (chibi big head / regular), box color theme, name on the box, 3 accessories"
+  },
+  {
+   "id": "39",
+   "name": "Q 版麥克筆塗鴉",
+   "en": "Chunky Marker Chibi",
+   "cat": "char",
+   "tags": [
+    "people",
+    "pet"
+   ],
+   "fit": "拍糊、表情怪、姿勢好笑的照片",
+   "color": "#58708a",
+   "effect": "上半原照；下半只畫照片裡的人（和寵物），變成頭身比 1:2 的粗麥克筆 Q 版，方形黑眼、一條線嘴巴，很有喜感。",
+   "opts": "右下角簽名（可放自己的名字或 IG 帳號）",
+   "pzh": "做一張 3:4 直式上下對比圖：上半部是我上傳的原照，滿版貼齊上方和左右，不加框、不重畫、不加濾鏡；下半部是根據同一張照片重畫的麥克筆塗鴉。下半部用乾淨的白色素描紙，只重畫照片裡的人（有寵物就一起畫），人數、姿勢、動作、頭的方向、髮型輪廓、服裝和主色、耳機帽子眼鏡等配件都和原照一樣；半身照就只畫半身；最多保留兩個他正在碰的物品，其他背景都拿掉。畫成誇張的 Q 版：全身頭身比約 1:2、幾乎沒脖子、肩膀窄、手簡化成圓塊（手指最多三根短刺），臉只用粗斜眉、黑色方眼、歪鼻子和一條線嘴巴，但保留原照的情緒。身體結構正常：兩隻手、兩隻腳。輪廓用粗的石板灰藍麥克筆，線條鈍、粗細不均、轉角略錯開；顏色只用輪廓色、黑色、膚色或毛色、和衣服的主色，平塗不加陰影。角色放在下半部中間，周圍留白。右下角手寫簽名「【你的名字或帳號】」，其他文字都不要。",
+   "pen": "Make a 3:4 vertical before/after: top is my original photo, full-bleed to the top and sides with no frame, redraw or filter; bottom is a marker doodle of the same photo. On clean white sketch paper, redraw only the people (and any pet) — same count, pose, action, head direction, hair silhouette, outfit and main colors, and accessories like headphones, hats or glasses. If it's a half-body shot, draw half-body only; keep at most two objects they're touching and remove the rest of the background. Make it exaggerated chibi: about 1:2 head-to-body, almost no neck, narrow shoulders, hands as round blobs (no more than three short finger nubs), faces made only of thick slanted brows, black square eyes, a crooked nose and a single-line mouth — while keeping the photo's emotion. Correct anatomy: exactly two arms and two legs. Outline with a thick slate blue-grey marker — blunt, uneven, corners slightly misaligned; color only with that outline color, black, skin or fur tone and the outfit's main color, flat with no shading. Center the character with space around it. Hand-letter the signature \"[YOUR NAME OR HANDLE]\" in the bottom-right corner and no other text.",
+   "fitEn": "Blurry shots, weird faces, funny poses",
+   "effectEn": "Top: your photo. Bottom: only the people (and pets), drawn as 1:2 chibis in chunky marker — square black eyes, one-line mouths, very funny.",
+   "optsEn": "Signature in the bottom right (your name or IG handle)"
+  },
+  {
+   "id": "17",
+   "name": "寵物變人",
+   "en": "Pet as a Human",
+   "cat": "char",
+   "tags": [
+    "pet"
+   ],
+   "fit": "寵物正面照",
+   "color": "#9a8f86",
+   "effect": "想像自家寵物變成人類會長怎樣，保留毛色、個性和特徵。",
+   "opts": "年紀、職業／場景、畫風（寫實／插畫）",
+   "pzh": "想像我上傳照片中的寵物變成一個人。把牠的毛色變成髮色和服裝配色，牠的個性（【活潑愛吃】）變成表情和姿態，保留最明顯的特徵（例如耳朵形狀、斑紋）當成髮型或配件的靈感。這個人是【一位 20 多歲的咖啡店員】，在【店裡】。人物身體結構正常：兩隻手、兩隻腳。旁邊的小角落放上原本的寵物照片當對照。寫實攝影風格，比例 4:5。",
+   "pen": "Imagine the pet in my photo as a human. Turn its fur colors into hair color and outfit palette, its personality ([playful and food-loving]) into expression and posture, and its most distinctive traits (ear shape, markings) into hairstyle or accessory details. The person is [a café barista in their twenties] in [the café]. Correct anatomy — exactly two arms and two legs. Include the original pet photo as a small inset for comparison. Realistic photo style, 4:5 ratio.",
+   "fitEn": "A front-facing photo of your pet",
+   "effectEn": "Imagine your pet as a human — keeping its fur colors, personality and features.",
+   "optsEn": "Age, job / setting, style (realistic / illustration)"
+  }
+ ],
+ "events": []
+}
