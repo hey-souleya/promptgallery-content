@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "styles": [
   {
    "id": "01",
@@ -175,7 +175,8 @@
    "pen": "Make a 3:4 vertical before/after image from my photo, split evenly. Top: the original photo, not redrawn, only a light color grade. Bottom: the same subject drawn with oil pastels on thick white pastel paper, looking like a photo of a real drawing. Draw only the subject, simplified and a little naive like a cute casual sketch — no realistic detail; draw it large, slightly cropped if needed; leave most of the background as bare paper, with at most one flat crayon block as a floor or cushion. Outline with thick, broken colored crayon strokes alternating teal, bright red, violet and orange — no black outlines. Build the body from loose, sparse short strokes following the fur direction, mixing 3–5 vivid colors in each area (lemon yellow, orange, pink, lavender, grass green); don't copy realistic coloring, but keep markings and light/dark in the same places as the photo, with white paper showing between strokes. Eyes in one clear solid color with dark pupils, nose and mouth in a few simple strokes, whiskers as thin dark lines. Show crayon grain, paper texture, waxy crumbs at stroke edges and slight smudging. Keep pose, expression and features so it's instantly recognizable; animals have four normal legs, people exactly two arms and two legs. Saturated, happy and playful but not childish. No watercolor, colored pencil, flat digital fill, vectors, 3D, black outlines, text or watermarks.",
    "fitEn": "Pets, portraits, flowers, small animals",
    "effectEn": "Top: your photo. Bottom: a colorful oil-pastel drawing on thick white paper — bold colored outlines and layered short strokes, like a photo of a real drawing.",
-   "optsEn": "Main outline color, background block (blank / one flat color)"
+   "optsEn": "Main outline color, background block (blank / one flat color)",
+   "locked": true
   },
   {
    "id": "02",
@@ -310,7 +311,8 @@
    "pen": "Using my image as a strict blueprint, recreate the same scene as a handmade needle-felt stop-motion frame. Keep the scene type, number of subjects, positions, scale, poses, actions, directions, overlaps, camera angle and composition — outdoor stays outdoor; don't add, remove or move people, animals or furniture; only simplify detail. Remake everything as realistic needle-felted miniatures with visible wool fibers, fine fuzz, needle marks, soft edges and slightly irregular handmade shapes — not a blur filter on a photo. People are simple handmade puppets: dot eyes, minimal nose and mouth, hair as one solid wool shape, clothing as simple felt color blocks, with correct anatomy — exactly two arms and two legs. Animals keep their count, position and direction but simplify into rounded felt forms. Keep the meaning of the background but simplify it heavily — grass becomes a low-saturation green felt surface with a few pale wool dots. Muted tones, soft side light, shallow depth of field and vintage film grain, like real tabletop miniature photography. No clay, crochet, plastic figures, glossy 3D, real grass blades, text or watermarks.",
    "fitEn": "Pets, family photos, parks, picnics",
    "effectEn": "The whole scene, keeping the exact composition, remade as a handmade needle-felted miniature, like a frame from an indie stop-motion film.",
-   "optsEn": "How much to simplify the scene"
+   "optsEn": "How much to simplify the scene",
+   "locked": true
   },
   {
    "id": "25",
@@ -544,7 +546,8 @@
    "pen": "Based on my photo, draw the person (or pet) as one cute chibi character, keeping their hairstyle, face shape and distinctive features, with correct anatomy — exactly two arms and two legs. Create a 4×2 sticker sheet of 8 cells, each the same character with a different expression and pose: [happy wave / thank you / OK / crying / angry / shy / exhausted / heart]. Add one short caption per cell: [Hi / Thanks / OK / Waaah / Hmph / So shy / Tired / Love you]. Give each character a thick white outline on a pure white background (for easy cutout), with generous spacing so nothing overlaps. Clear, legible text with no gibberish. Style: [bold-outline flat cartoon], bright colors.",
    "fitEn": "Portraits or pets with a clear face",
    "effectEn": "One photo turned into 8 expression stickers of the same character, with white borders and a transparent background, ready to cut out.",
-   "optsEn": "Style (chibi flat color / watercolor / bold cartoon), the 8 expressions and their text"
+   "optsEn": "Style (chibi flat color / watercolor / bold cartoon), the 8 expressions and their text",
+   "locked": true
   },
   {
    "id": "12",
@@ -563,7 +566,8 @@
    "pen": "Turn the person in my photo into a collectible action figure inside retail packaging. Keep their facial features, hairstyle and outfit; make it [chibi big-head / regular proportions] with large expressive eyes and a realistic plastic-toy finish, with correct anatomy — exactly two arms and two legs. The box is [THEME COLOR] cardboard with a clear plastic window, the name \"[NAME]\" printed at the top, and three accessories in molded slots beside the figure: [ITEM 1], [ITEM 2], [ITEM 3]. Clean product-photography lighting, simple background, 3:4 ratio.",
    "fitEn": "A clear full- or half-body photo, or a pet photo",
    "effectEn": "You (or your pet) as a collectible figure in a clear-window box, with a name and accessories on the package.",
-   "optsEn": "Proportions (chibi big head / regular), box color theme, name on the box, 3 accessories"
+   "optsEn": "Proportions (chibi big head / regular), box color theme, name on the box, 3 accessories",
+   "locked": true
   },
   {
    "id": "39",
@@ -600,7 +604,8 @@
    "pen": "Imagine the pet in my photo as a human. Turn its fur colors into hair color and outfit palette, its personality ([playful and food-loving]) into expression and posture, and its most distinctive traits (ear shape, markings) into hairstyle or accessory details. The person is [a café barista in their twenties] in [the café]. Correct anatomy — exactly two arms and two legs. Include the original pet photo as a small inset for comparison. Realistic photo style, 4:5 ratio.",
    "fitEn": "A front-facing photo of your pet",
    "effectEn": "Imagine your pet as a human — keeping its fur colors, personality and features.",
-   "optsEn": "Age, job / setting, style (realistic / illustration)"
+   "optsEn": "Age, job / setting, style (realistic / illustration)",
+   "locked": true
   }
  ],
  "events": []
