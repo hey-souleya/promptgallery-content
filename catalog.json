@@ -603,5 +603,7 @@
    "optsEn": "Age, job / setting, style (realistic / illustration)"
   }
  ],
- "events": []
+ "events": [
+  {"id":"test-2026","name":"測試特輯","nameEn":"Test Special","emoji":"🧪","from":"2026-10-27","to":"2026-10-29","styleIDs":["20","64","13"]}
+ ]
 }
