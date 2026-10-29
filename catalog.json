@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "styles": [
   {
    "id": "01",
@@ -169,13 +169,13 @@
    ],
    "fit": "寵物、人像、花、小動物",
    "color": "#e08a3c",
-   "effect": "上半原照；下半是用油性粉蠟筆畫在厚白紙上的暖橘色系手繪，焦糖、磚紅、蜂蜜黃的粗輪廓，多色短筆觸疊色，像把真的畫拍下來。",
-   "opts": "輪廓主色、背景色塊（留白／一塊平塗色）",
-   "pzh": "把我上傳的照片做成一張 3:4 直式上下對比圖，上下各佔一半。上半部是原照，不重畫，只輕微調色。下半部是同一個主體用油性粉蠟筆畫在厚白色粉彩紙上的手繪作品，看起來像把真實的畫拍下來。只畫主體，造型簡化、有點稚拙，像一般人隨手畫的可愛小畫，不要寫實細節；主體畫得大，可以稍微被裁切；背景大多是紙張留白，最多加一塊平塗的蠟筆色塊當地面或墊子。整體配色走暖橘色系：輪廓用粗而斷續的蠟筆線勾邊，焦糖橘、磚紅、蜂蜜黃、可可棕交替出現，不要黑色輪廓。身體用鬆散、稀疏、順著毛流方向的短筆觸疊色，同一塊區域混入 3～5 種顏色（杏橘、南瓜橘、奶油黃、蜜桃粉，再加一點點橄欖綠當對比），不照寫實毛色，但花紋位置和明暗要跟原照一致，筆觸之間露出白紙。眼睛用一個清楚的實色加深色瞳孔，鼻子和嘴巴簡單幾筆，鬍鬚用細的深色線。要看得到蠟筆顆粒、紙紋、筆觸邊緣的蠟屑和輕微抹開的痕跡。姿勢、表情和特徵都和原照一樣，一眼認得出是同一個；動物是正常的四隻腳，人物是兩隻手、兩隻腳。色彩溫暖，像秋天的午後陽光，童趣但不幼稚。不要水彩、色鉛筆、數位平塗、向量、3D、黑色描邊、文字或浮水印。",
-   "pen": "Make a 3:4 vertical before/after image from my photo, split evenly. Top: the original photo, not redrawn, only a light color grade. Bottom: the same subject drawn with oil pastels on thick white pastel paper, looking like a photo of a real drawing. Draw only the subject, simplified and a little naive like a cute casual sketch — no realistic detail; draw it large, slightly cropped if needed; leave most of the background as bare paper, with at most one flat crayon block as a floor or cushion. Use a warm-orange palette: outline with thick, broken crayon strokes alternating caramel orange, brick red, honey yellow and cocoa brown — no black outlines. Build the body from loose, sparse short strokes following the fur direction, mixing 3–5 colors in each area (apricot, pumpkin orange, cream yellow, peach pink, plus a touch of olive green for contrast); don't copy realistic coloring, but keep markings and light/dark in the same places as the photo, with white paper showing between strokes. Eyes in one clear solid color with dark pupils, nose and mouth in a few simple strokes, whiskers as thin dark lines. Show crayon grain, paper texture, waxy crumbs at stroke edges and slight smudging. Keep pose, expression and features so it's instantly recognizable; animals have four normal legs, people exactly two arms and two legs. Warm like autumn afternoon sunlight, playful but not childish. No watercolor, colored pencil, flat digital fill, vectors, 3D, black outlines, text or watermarks.",
+   "effect": "上半原照；下半是用油性粉蠟筆畫在厚白紙上的手繪，粗彩色輪廓、多色短筆觸疊色，像把真的畫拍下來。色系可以選暖橘、藍紫或彩虹（範例是暖橘）。",
+   "opts": "色系（暖橘／藍紫／彩虹）、背景色塊（留白／一塊平塗色）",
+   "pzh": "把我上傳的照片做成一張 3:4 直式上下對比圖，上下各佔一半。上半部是原照，不重畫，只輕微調色。下半部是同一個主體用油性粉蠟筆畫在厚白色粉彩紙上的手繪作品，看起來像把真實的畫拍下來。只畫主體，造型簡化、有點稚拙，像一般人隨手畫的可愛小畫，不要寫實細節；主體畫得大，可以稍微被裁切；背景大多是紙張留白，最多加一塊平塗的蠟筆色塊當地面或墊子。整體配色走【暖橘／藍紫／彩虹】色系（暖橘＝焦糖橘、磚紅、蜂蜜黃、杏橘、蜜桃粉，一點橄欖綠當對比；藍紫＝靛藍、紫羅蘭、天藍、薰衣草紫、粉紫，一點奶油黃當亮點；彩虹＝湖水綠、正紅、檸檬黃、粉紅、草綠、紫色）。輪廓用這個色系裡的 3～4 種顏色，以粗而斷續的蠟筆線交替勾邊，不要黑色輪廓。身體用鬆散、稀疏、順著毛流方向的短筆觸疊色，同一塊區域混入這個色系裡的 3～5 種顏色，不照寫實毛色，但花紋位置和明暗要跟原照一致，筆觸之間露出白紙。眼睛用一個清楚的實色加深色瞳孔，鼻子和嘴巴簡單幾筆，鬍鬚用細的深色線。要看得到蠟筆顆粒、紙紋、筆觸邊緣的蠟屑和輕微抹開的痕跡。姿勢、表情和特徵都和原照一樣，一眼認得出是同一個；動物是正常的四隻腳，人物是兩隻手、兩隻腳。色彩飽和、有溫度，童趣但不幼稚。不要水彩、色鉛筆、數位平塗、向量、3D、黑色描邊、文字或浮水印。",
+   "pen": "Make a 3:4 vertical before/after image from my photo, split evenly. Top: the original photo, not redrawn, only a light color grade. Bottom: the same subject drawn with oil pastels on thick white pastel paper, looking like a photo of a real drawing. Draw only the subject, simplified and a little naive like a cute casual sketch — no realistic detail; draw it large, slightly cropped if needed; leave most of the background as bare paper, with at most one flat crayon block as a floor or cushion. Use a [warm orange / blue-purple / rainbow] palette (warm orange = caramel orange, brick red, honey yellow, apricot, peach pink, a touch of olive green; blue-purple = indigo, violet, sky blue, lavender, lilac, a touch of cream yellow; rainbow = teal, bright red, lemon yellow, pink, grass green, violet). Outline with thick, broken crayon strokes alternating 3–4 colors from that palette — no black outlines. Build the body from loose, sparse short strokes following the fur direction, mixing 3–5 colors from that palette in each area; don't copy realistic coloring, but keep markings and light/dark in the same places as the photo, with white paper showing between strokes. Eyes in one clear solid color with dark pupils, nose and mouth in a few simple strokes, whiskers as thin dark lines. Show crayon grain, paper texture, waxy crumbs at stroke edges and slight smudging. Keep pose, expression and features so it's instantly recognizable; animals have four normal legs, people exactly two arms and two legs. Saturated and warm-hearted, playful but not childish. No watercolor, colored pencil, flat digital fill, vectors, 3D, black outlines, text or watermarks.",
    "fitEn": "Pets, portraits, flowers, small animals",
-   "effectEn": "Top: your photo. Bottom: a warm-orange oil-pastel drawing on thick white paper — caramel, brick-red and honey outlines with layered short strokes, like a photo of a real drawing.",
-   "optsEn": "Main outline color, background block (blank / one flat color)",
+   "effectEn": "Top: your photo. Bottom: an oil-pastel drawing on thick white paper with bold colored outlines and layered short strokes, like a photo of a real drawing. Pick a warm orange, blue-purple or rainbow palette (example shows warm orange).",
+   "optsEn": "Palette (warm orange / blue-purple / rainbow), background block (blank / one flat color)",
    "img": 1
   },
   {
