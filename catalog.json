@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "styles": [
   {
    "id": "01",
@@ -168,14 +168,15 @@
     "people"
    ],
    "fit": "寵物、人像、花、小動物",
-   "color": "#f2a93b",
-   "effect": "上半原照；下半是用油性粉蠟筆畫在厚白紙上的彩色手繪，彩色粗輪廓、多色短筆觸疊色，像把真的畫拍下來。",
+   "color": "#e08a3c",
+   "effect": "上半原照；下半是用油性粉蠟筆畫在厚白紙上的暖橘色系手繪，焦糖、磚紅、蜂蜜黃的粗輪廓，多色短筆觸疊色，像把真的畫拍下來。",
    "opts": "輪廓主色、背景色塊（留白／一塊平塗色）",
-   "pzh": "把我上傳的照片做成一張 3:4 直式上下對比圖，上下各佔一半。上半部是原照，不重畫，只輕微調色。下半部是同一個主體用油性粉蠟筆畫在厚白色粉彩紙上的手繪作品，看起來像把真實的畫拍下來。只畫主體，造型簡化、有點稚拙，像一般人隨手畫的可愛小畫，不要寫實細節；主體畫得大，可以稍微被裁切；背景大多是紙張留白，最多加一塊平塗的蠟筆色塊當地面或墊子。輪廓用粗而斷續的彩色蠟筆線勾邊，湖水綠、正紅、紫色、橘色交替出現，不要黑色輪廓。身體用鬆散、稀疏、順著毛流方向的短筆觸疊色，同一塊區域混入 3～5 種鮮豔顏色（檸檬黃、橘、粉紅、薰衣草紫、草綠），不照寫實毛色，但花紋位置和明暗要跟原照一致，筆觸之間露出白紙。眼睛用一個清楚的實色加深色瞳孔，鼻子和嘴巴簡單幾筆，鬍鬚用細的深色線。要看得到蠟筆顆粒、紙紋、筆觸邊緣的蠟屑和輕微抹開的痕跡。姿勢、表情和特徵都和原照一樣，一眼認得出是同一個；動物是正常的四隻腳，人物是兩隻手、兩隻腳。色彩飽和、快樂、童趣但不幼稚。不要水彩、色鉛筆、數位平塗、向量、3D、黑色描邊、文字或浮水印。",
-   "pen": "Make a 3:4 vertical before/after image from my photo, split evenly. Top: the original photo, not redrawn, only a light color grade. Bottom: the same subject drawn with oil pastels on thick white pastel paper, looking like a photo of a real drawing. Draw only the subject, simplified and a little naive like a cute casual sketch — no realistic detail; draw it large, slightly cropped if needed; leave most of the background as bare paper, with at most one flat crayon block as a floor or cushion. Outline with thick, broken colored crayon strokes alternating teal, bright red, violet and orange — no black outlines. Build the body from loose, sparse short strokes following the fur direction, mixing 3–5 vivid colors in each area (lemon yellow, orange, pink, lavender, grass green); don't copy realistic coloring, but keep markings and light/dark in the same places as the photo, with white paper showing between strokes. Eyes in one clear solid color with dark pupils, nose and mouth in a few simple strokes, whiskers as thin dark lines. Show crayon grain, paper texture, waxy crumbs at stroke edges and slight smudging. Keep pose, expression and features so it's instantly recognizable; animals have four normal legs, people exactly two arms and two legs. Saturated, happy and playful but not childish. No watercolor, colored pencil, flat digital fill, vectors, 3D, black outlines, text or watermarks.",
+   "pzh": "把我上傳的照片做成一張 3:4 直式上下對比圖，上下各佔一半。上半部是原照，不重畫，只輕微調色。下半部是同一個主體用油性粉蠟筆畫在厚白色粉彩紙上的手繪作品，看起來像把真實的畫拍下來。只畫主體，造型簡化、有點稚拙，像一般人隨手畫的可愛小畫，不要寫實細節；主體畫得大，可以稍微被裁切；背景大多是紙張留白，最多加一塊平塗的蠟筆色塊當地面或墊子。整體配色走暖橘色系：輪廓用粗而斷續的蠟筆線勾邊，焦糖橘、磚紅、蜂蜜黃、可可棕交替出現，不要黑色輪廓。身體用鬆散、稀疏、順著毛流方向的短筆觸疊色，同一塊區域混入 3～5 種顏色（杏橘、南瓜橘、奶油黃、蜜桃粉，再加一點點橄欖綠當對比），不照寫實毛色，但花紋位置和明暗要跟原照一致，筆觸之間露出白紙。眼睛用一個清楚的實色加深色瞳孔，鼻子和嘴巴簡單幾筆，鬍鬚用細的深色線。要看得到蠟筆顆粒、紙紋、筆觸邊緣的蠟屑和輕微抹開的痕跡。姿勢、表情和特徵都和原照一樣，一眼認得出是同一個；動物是正常的四隻腳，人物是兩隻手、兩隻腳。色彩溫暖，像秋天的午後陽光，童趣但不幼稚。不要水彩、色鉛筆、數位平塗、向量、3D、黑色描邊、文字或浮水印。",
+   "pen": "Make a 3:4 vertical before/after image from my photo, split evenly. Top: the original photo, not redrawn, only a light color grade. Bottom: the same subject drawn with oil pastels on thick white pastel paper, looking like a photo of a real drawing. Draw only the subject, simplified and a little naive like a cute casual sketch — no realistic detail; draw it large, slightly cropped if needed; leave most of the background as bare paper, with at most one flat crayon block as a floor or cushion. Use a warm-orange palette: outline with thick, broken crayon strokes alternating caramel orange, brick red, honey yellow and cocoa brown — no black outlines. Build the body from loose, sparse short strokes following the fur direction, mixing 3–5 colors in each area (apricot, pumpkin orange, cream yellow, peach pink, plus a touch of olive green for contrast); don't copy realistic coloring, but keep markings and light/dark in the same places as the photo, with white paper showing between strokes. Eyes in one clear solid color with dark pupils, nose and mouth in a few simple strokes, whiskers as thin dark lines. Show crayon grain, paper texture, waxy crumbs at stroke edges and slight smudging. Keep pose, expression and features so it's instantly recognizable; animals have four normal legs, people exactly two arms and two legs. Warm like autumn afternoon sunlight, playful but not childish. No watercolor, colored pencil, flat digital fill, vectors, 3D, black outlines, text or watermarks.",
    "fitEn": "Pets, portraits, flowers, small animals",
-   "effectEn": "Top: your photo. Bottom: a colorful oil-pastel drawing on thick white paper — bold colored outlines and layered short strokes, like a photo of a real drawing.",
-   "optsEn": "Main outline color, background block (blank / one flat color)"
+   "effectEn": "Top: your photo. Bottom: a warm-orange oil-pastel drawing on thick white paper — caramel, brick-red and honey outlines with layered short strokes, like a photo of a real drawing.",
+   "optsEn": "Main outline color, background block (blank / one flat color)",
+   "img": 1
   },
   {
    "id": "02",
@@ -616,12 +617,13 @@
    "fit": "寵物、人像、桌上的東西、房間一角，背景暗一點更有感覺",
    "fitEn": "Pets, portraits, things on a table, a corner of a room — darker backgrounds work best",
    "color": "#2b2b2b",
-   "effect": "照片壓暗成深夜的感覺；上面散布十幾個白色粉筆線條的小塗鴉，一半畫照片裡的東西（主體的簡筆版、周圍的細節），一半畫你的日常，中間一行手寫的名字或帳號。",
-   "effectEn": "The photo is darkened to a late-night mood; a dozen small white chalk doodles are scattered on top — half of them things from the photo (a tiny version of the subject, details around it), half from your everyday life — with a handwritten name or handle in the middle.",
+   "effect": "照片壓暗成深夜的感覺；上面散布十幾個白色粉筆線條的小塗鴉，一半畫照片裡的東西（主體的簡筆版、周圍的細節），一半畫你的日常，最底下一行小小的手寫簽名。",
+   "effectEn": "The photo is darkened to a late-night mood; a dozen small white chalk doodles are scattered on top — half of them things from the photo (a tiny version of the subject, details around it), half from your everyday life — with a tiny handwritten signature at the bottom.",
    "opts": "名字或帳號、塗鴉數量（8／12／16）、名字顏色（黃／粉／白）、要畫進去的東西",
    "optsEn": "Name or handle, number of doodles (8 / 12 / 16), name color (yellow / pink / white), things to include",
-   "pzh": "把我上傳的照片做成一張 9:16 直式的限時動態圖。先把整張照片壓暗（像蓋上一層 55% 的黑），主體和背景的輪廓還看得清楚，但整體是深夜的感覺。然後在整個畫面上散布【8／12／16】個小塗鴉，用白色粉筆或白色蠟筆的質感畫：線條偏粗、邊緣有一點顆粒和不均勻，像小朋友在黑板上畫的，可愛、笨拙、有點好笑。塗鴉至少一半要畫照片裡的東西（把主體畫成小小的簡筆版、旁邊的物件、牠的動作、環境裡的細節），另一半是我的日常：【例如：咖啡、腳踏車、貓罐頭、吉他】，再混幾個簡單的小表情、星星、月亮、問號和箭頭。每個塗鴉都很小、彼此分開、位置隨意不對齊，大量留黑。畫面正中央用手寫字寫「【名字或帳號】」，顏色是【黃色／粉紅色／白色】，筆觸和塗鴉一樣。只有這一行字，其他地方不要文字。整體像深夜用粉筆在照片上亂畫的手帳，不要寫實光影，不要霓虹發光效果。",
-   "pen": "Turn my uploaded photo into a 9:16 vertical story image. First darken the photo (as if covered by a 55% black layer): the subject and background are still clearly readable, but the whole image feels like late night. Then scatter [8 / 12 / 16] small doodles across the frame, drawn in white chalk or white crayon: fairly thick lines with slightly grainy, uneven edges, like a kid drawing on a blackboard — cute, clumsy, a little funny. At least half of the doodles must be things from the photo (a tiny simplified version of the subject, objects beside it, what it's doing, details of the setting); the other half from my everyday life: [e.g. coffee, bicycle, cat food can, guitar], plus a few simple faces, stars, a moon, question marks and arrows. Every doodle is small, separate from the others and placed loosely without alignment, with lots of black space left. In the very center, handwrite \"[name or handle]\" in [yellow / pink / white], with the same stroke as the doodles. That is the only text; no other words anywhere. Overall it should feel like a late-night journal page scribbled in chalk over a photo — no realistic shading, no neon glow effects."
+   "pzh": "把我上傳的照片做成一張 9:16 直式的限時動態圖。先把整張照片壓暗（像蓋上一層 40% 的黑），主體和背景的輪廓還看得清楚，但整體是深夜的感覺。然後在整個畫面上散布【8／12／16】個小塗鴉，用白色粉筆或白色蠟筆的質感畫：線條潦草、抖抖的、不一定閉合、有點歪，邊緣有粉筆顆粒，像隨手亂畫的手繪速寫，可愛、笨拙、有點好笑，不要工整。塗鴉至少一半要畫照片裡的東西（把主體畫成小小的簡筆版、旁邊的物件、牠的動作、環境裡的細節），另一半是我的日常：【例如：咖啡、腳踏車、貓罐頭、吉他】，再混幾個簡單的小表情、星星、月亮、問號和箭頭。每個塗鴉都很小、彼此分開、位置隨意不對齊，大量留黑。畫面最底部置中用很小的手寫字寫「【名字或帳號】」，像小小的簽名，顏色是【黃色／粉紅色／白色】，筆觸和塗鴉一樣。只有這一行字，其他地方不要文字。整體像深夜用粉筆在照片上亂畫的手帳，不要寫實光影，不要霓虹發光效果。",
+   "pen": "Turn my uploaded photo into a 9:16 vertical story image. First darken the photo (as if covered by a 40% black layer): the subject and background are still clearly readable, but the whole image feels like late night. Then scatter [8 / 12 / 16] small doodles across the frame, drawn in white chalk or white crayon: scrappy, shaky lines that don't always close and lean a bit, with chalky grainy edges, like a quick careless hand sketch — cute, clumsy, a little funny, never neat. At least half of the doodles must be things from the photo (a tiny simplified version of the subject, objects beside it, what it's doing, details of the setting); the other half from my everyday life: [e.g. coffee, bicycle, cat food can, guitar], plus a few simple faces, stars, a moon, question marks and arrows. Every doodle is small, separate from the others and placed loosely without alignment, with lots of black space left. At the very bottom center, handwrite \"[name or handle]\" very small, like a tiny signature, in [yellow / pink / white], with the same stroke as the doodles. That is the only text; no other words anywhere. Overall it should feel like a late-night journal page scribbled in chalk over a photo — no realistic shading, no neon glow effects.",
+   "img": 2
   }
  ],
  "events": []
