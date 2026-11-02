@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "styles": [
   {
    "id": "01",
@@ -624,6 +624,51 @@
    "pzh": "把我上傳的照片做成一張 9:16 直式的限時動態圖。先把整張照片壓暗（像蓋上一層 40% 的黑），主體和背景的輪廓還看得清楚，但整體是深夜的感覺。然後在整個畫面上散布【8／12／16】個小塗鴉，用白色粉筆或白色蠟筆的質感畫：線條潦草、抖抖的、不一定閉合、有點歪，邊緣有粉筆顆粒，像隨手亂畫的手繪速寫，可愛、笨拙、有點好笑，不要工整。塗鴉至少一半要畫照片裡的東西（把主體畫成小小的簡筆版、旁邊的物件、牠的動作、環境裡的細節），另一半是我的日常：【例如：咖啡、腳踏車、貓罐頭、吉他】，再混幾個簡單的小表情、星星、月亮、問號和箭頭。每個塗鴉都很小、彼此分開、位置隨意不對齊，大量留黑。畫面最底部置中用很小的手寫字寫「【名字或帳號】」，像小小的簽名，顏色是【黃色／粉紅色／白色】，筆觸和塗鴉一樣。只有這一行字，其他地方不要文字。整體像深夜用粉筆在照片上亂畫的手帳，不要寫實光影，不要霓虹發光效果。",
    "pen": "Turn my uploaded photo into a 9:16 vertical story image. First darken the photo (as if covered by a 40% black layer): the subject and background are still clearly readable, but the whole image feels like late night. Then scatter [8 / 12 / 16] small doodles across the frame, drawn in white chalk or white crayon: scrappy, shaky lines that don't always close and lean a bit, with chalky grainy edges, like a quick careless hand sketch — cute, clumsy, a little funny, never neat. At least half of the doodles must be things from the photo (a tiny simplified version of the subject, objects beside it, what it's doing, details of the setting); the other half from my everyday life: [e.g. coffee, bicycle, cat food can, guitar], plus a few simple faces, stars, a moon, question marks and arrows. Every doodle is small, separate from the others and placed loosely without alignment, with lots of black space left. At the very bottom center, handwrite \"[name or handle]\" very small, like a tiny signature, in [yellow / pink / white], with the same stroke as the doodles. That is the only text; no other words anywhere. Overall it should feel like a late-night journal page scribbled in chalk over a photo — no realistic shading, no neon glow effects.",
    "img": 2
+  },
+  {
+   "id": "66",
+   "name": "穿越大字海報",
+   "en": "Subject Through Giant Type",
+   "cat": "design",
+   "tags": [
+    "pet",
+    "people",
+    "travel",
+    "street",
+    "food"
+   ],
+   "fit": "往上長的主體最好看：花、樹、人物半身、高樓、長頸的動物、一杯有吸管的飲料",
+   "fitEn": "Subjects that rise upward work best: flowers, trees, half-body portraits, towers, long-necked animals, a drink with a straw",
+   "color": "#2f5d8a",
+   "effect": "照片主體從畫面下方往上長，穿過一個橫跨整張圖的巨大英文單字，上方留白放兩行小詩，整張帶著復古雜誌的彩色印刷網點。",
+   "effectEn": "The photo's subject rises from the bottom through one giant word spanning the frame, with two short lines of poetry in the blank space above and a vintage halftone print texture.",
+   "opts": "大字單字（自己指定或讓 AI 選）、要不要放原照小縮圖",
+   "optsEn": "The big word (your own or let AI choose), include a small original-photo thumbnail or not",
+   "pzh": "把我上傳的照片做成一張 3:4 直式的復古印刷海報，整張是一個連續的畫面，不要上下拼接。照片的主體保留原本的長相、姿勢、比例和場景，從畫面下方自然往上延伸。畫面中段放一個橫跨左右、非常大的英文大寫單字「【一個和照片有關的英文單字】」，用高對比的粗襯線字體；主體要從字的後面往上穿過去，擋住部分筆畫，頭頂明顯超出字的上緣，但單字還是清楚好讀。主體和原場景要連在一起、比例正常，寧可移動文字或調整取景，也不要把脖子拉長、身體變形或讓東西飄在空中。畫面上方約三分之一是乾淨的暖白紙色留白，用小小的打字機字體放兩行和照片情緒呼應的英文短詩，拼字正確。大字的顏色從照片裡最有代表性的顏色挑（花、果實、葉子、牆面、天空或水），和畫面協調又看得清楚；小詩用同色系的深色。在大字和照片裡加上細密、看得到的彩色圓形印刷網點，青、洋紅、黃三色可以輕微錯位，暗處密、亮處疏，像老雜誌的彩色印刷，而不是雜訊；主體仍然是真實照片的質感，上方留白保持乾淨。【右上角放一張約占畫面寬度 15% 的原照小縮圖，完整不裁切，細邊框，下面標「ORIGINAL」／不要放原照縮圖】。除此之外不要其他標題、浮水印或裝飾，只輸出一張完整海報。",
+   "pen": "Turn my uploaded photo into a 3:4 vertical vintage-print poster that reads as one continuous image, not stacked panels. Keep the subject's likeness, pose, proportions and setting, rising naturally from the bottom of the frame. Across the middle, set one very large English word in uppercase, \"[one English word that fits the photo]\", in a heavy high-contrast serif spanning edge to edge; the subject passes up from behind the word, covering part of the letters, with its top clearly breaking above the word, while the word stays easy to read. The subject must stay connected to its original setting with normal proportions — move the text or reframe rather than stretching a neck, warping a body or leaving anything floating. The top third is clean warm off-white paper with two short lines of English poetry that match the photo's mood, in small typewriter type, spelled correctly. Pick the big word's color from the photo's most characteristic hue (petals, fruit, leaves, walls, sky or water), harmonious yet readable; set the poem in a darker shade of the same family. Add fine, clearly visible round CMYK halftone dots inside the big word and the photo — cyan, magenta and yellow slightly misregistered, dense in shadows and sparse in highlights — like vintage magazine color printing, not noise; the subject keeps a real photographic finish and the top blank area stays clean. [Place a small original-photo thumbnail about 15% of the width in the top-right corner, uncropped, with a thin border and the label \"ORIGINAL\" / No thumbnail]. No other titles, watermarks or decorations. Output one complete poster only."
+  },
+  {
+   "id": "67",
+   "name": "厚塗油畫微景觀",
+   "en": "Impasto Oil Miniature",
+   "cat": "craft",
+   "tags": [
+    "pet",
+    "people",
+    "travel",
+    "street",
+    "food",
+    "interior"
+   ],
+   "fit": "寵物、單一人物、一棵樹、一棟房子、一杯咖啡，主體單純、輪廓清楚最好看",
+   "fitEn": "Pets, a single person, a tree, a house, a cup of coffee — simple subjects with clear outlines work best",
+   "color": "#c98b4a",
+   "effect": "上半原照；下半同一個主體變成用刮刀厚厚堆出來的油畫小景觀，站在一抹從照片取色的顏料色帶上，周圍大量留白，配一行細細的英文標題。",
+   "effectEn": "Top: your photo. Bottom: the same subject sculpted as a small palette-knife impasto miniature, standing on a band of paint taken from the photo's colors, surrounded by white space with a thin English title.",
+   "opts": "英文標題、色帶變成什麼（地面／水面／小路／抽象色塊）",
+   "optsEn": "English title, what the color band becomes (ground / water / path / abstract block)",
+   "pzh": "把我上傳的照片做成一張 3:4 直式上下對比海報，上下各佔一半，中間是一條乾淨俐落的水平分界線，不要漸層或留白間隔。上半部是原照，主體的長相、數量、姿勢、比例、位置和光影都不改，只輕微調色，不加任何文字或裝飾。下半部以同一張照片的主體和姿勢為依據，重新做成一個有立體感的厚塗油畫小景觀：顏料一層層堆起來，看得到刮刀刮過的痕跡、手捏出來的形狀和起伏的邊緣，主體結構精緻、一眼認得出，但不要照抄照片細節。主體放在中間或稍微偏一邊，只佔下半部的一小塊，周圍是大面積的暖白色霧面畫紙。主體下方用一抹厚厚的顏料色帶承托，色帶變成【地面／水面／小路／抽象色塊】，顏色從原照取。整體配色從原照歸納成 3～4 個協調的顏色，比原照稍微明亮、通透一點，顏料最厚的地方放在色帶和高光。在留白處用細瘦、克制的字體放一個簡短的英文標題「【英文標題】」，下面一行更小的英文副標，拼字正確。動物是正常的四隻腳，人物是兩隻手、兩隻腳。整體安靜、精緻，像藝術出版品。不要卡通、塑膠感 3D、高飽和撞色、螢光色、浮水印、簽名或亂碼。",
+   "pen": "Make a 3:4 vertical before/after poster split exactly in half by one crisp horizontal line — no gradient or gap. Top: the original photo with the subject's identity, count, pose, proportions, position and lighting unchanged, only a light color grade, and no text or decoration. Bottom: rebuild the same subject and pose as a sculptural impasto oil-paint miniature — paint piled up in layers, visible palette-knife scrapes, hand-shaped forms and ridged edges; the subject is refined and instantly recognizable, but don't copy photographic detail. Place it centered or slightly off-center, taking only a small part of the bottom half, surrounded by a large field of warm off-white matte paper. Beneath it, a thick ribbon of paint holds it up, becoming [ground / water / a path / an abstract block], colored from the photo. Reduce the palette to 3–4 harmonious colors drawn from the photo, a little brighter and more luminous than the original, with the thickest paint on the ribbon and highlights. In the blank space, add a short English title \"[English title]\" in a thin, restrained typeface with one smaller English subtitle below, spelled correctly. Animals have four normal legs, people exactly two arms and two legs. Quiet and refined, like an art publication. No cartoon, plastic-looking 3D, saturated clashing colors, neon, watermarks, signatures or garbled text."
   }
  ],
  "events": []
