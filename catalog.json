@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "styles": [
   {
    "id": "01",
@@ -669,7 +669,127 @@
    "optsEn": "English title, what the color band becomes (ground / water / path / abstract block)",
    "pzh": "把我上傳的照片做成一張 3:4 直式上下對比海報，上下各佔一半，中間是一條乾淨俐落的水平分界線，不要漸層或留白間隔。上半部是原照，主體的長相、數量、姿勢、比例、位置和光影都不改，只輕微調色，不加任何文字或裝飾。下半部以同一張照片的主體和姿勢為依據，重新做成一個有立體感的厚塗油畫小景觀：顏料一層層堆起來，看得到刮刀刮過的痕跡、手捏出來的形狀和起伏的邊緣，主體結構精緻、一眼認得出，但不要照抄照片細節。主體放在中間或稍微偏一邊，只佔下半部的一小塊，周圍是大面積的暖白色霧面畫紙。主體下方用一抹厚厚的顏料色帶承托，色帶變成【地面／水面／小路／抽象色塊】，顏色從原照取。整體配色從原照歸納成 3～4 個協調的顏色，比原照稍微明亮、通透一點，顏料最厚的地方放在色帶和高光。在留白處用細瘦、克制的字體放一個簡短的英文標題「【英文標題】」，下面一行更小的英文副標，拼字正確。動物是正常的四隻腳，人物是兩隻手、兩隻腳。整體安靜、精緻，像藝術出版品。不要卡通、塑膠感 3D、高飽和撞色、螢光色、浮水印、簽名或亂碼。",
    "pen": "Make a 3:4 vertical before/after poster split exactly in half by one crisp horizontal line — no gradient or gap. Top: the original photo with the subject's identity, count, pose, proportions, position and lighting unchanged, only a light color grade, and no text or decoration. Bottom: rebuild the same subject and pose as a sculptural impasto oil-paint miniature — paint piled up in layers, visible palette-knife scrapes, hand-shaped forms and ridged edges; the subject is refined and instantly recognizable, but don't copy photographic detail. Place it centered or slightly off-center, taking only a small part of the bottom half, surrounded by a large field of warm off-white matte paper. Beneath it, a thick ribbon of paint holds it up, becoming [ground / water / a path / an abstract block], colored from the photo. Reduce the palette to 3–4 harmonious colors drawn from the photo, a little brighter and more luminous than the original, with the thickest paint on the ribbon and highlights. In the blank space, add a short English title \"[English title]\" in a thin, restrained typeface with one smaller English subtitle below, spelled correctly. Animals have four normal legs, people exactly two arms and two legs. Quiet and refined, like an art publication. No cartoon, plastic-looking 3D, saturated clashing colors, neon, watermarks, signatures or garbled text."
+  },
+  {
+   "id": "x01",
+   "name": "聖誕毛衣針織",
+   "en": "Christmas Sweater Knit",
+   "cat": "event",
+   "tags": [
+    "pet",
+    "people",
+    "food"
+   ],
+   "fit": "寵物、人像、一杯飲料或一個物件，輪廓清楚的主體最好看",
+   "fitEn": "Pets, portraits, a drink or a single object — subjects with a clear outline work best",
+   "color": "#b8323a",
+   "effect": "上半原照；下半把主體織進一件紅綠聖誕毛衣的針織圖案裡，看得到毛線和一格一格的針目。",
+   "effectEn": "Top: your photo. Bottom: the subject knitted into a red-and-green Christmas sweater pattern, with visible yarn and stitch-by-stitch texture.",
+   "opts": "毛衣底色（紅／綠／米白）、要不要加雪花和麋鹿花邊",
+   "optsEn": "Sweater base color (red / green / cream), add snowflake and reindeer borders or not",
+   "pzh": "把我上傳的照片做成一張 3:4 直式上下對比圖，上下各佔一半，用一條乾淨的水平線分開。上半部是原照，不重畫，只輕微調色。下半部是一塊近拍的手織聖誕毛衣布面，把照片裡的主體用針織圖案織進去：主體簡化成一格一格的像素針目（大約 40×40 格），保留輪廓、姿勢和最明顯的顏色特徵，看得出是同一個。毛衣底色是【紅色／綠色／米白色】，主體周圍【加／不加】一圈雪花、小麋鹿和松樹的傳統北歐花邊。要看得到粗毛線的纖維、V 字形的針目、一點點起毛球，像真的毛衣拍下來，有柔和的側光。動物是正常的四隻腳，人物是兩隻手、兩隻腳。不要文字、不要數位平塗、不要卡通描邊。",
+   "pen": "Make a 3:4 vertical before/after image from my photo, split evenly by one clean horizontal line. Top: the original photo, not redrawn, only a light color grade. Bottom: a close-up of a hand-knitted Christmas sweater with the subject knitted into it: simplify the subject into stitch-by-stitch pixels (about 40×40), keeping its outline, pose and most distinctive colors so it's clearly the same. Sweater base color: [red / green / cream]; [add / don't add] a traditional Nordic border of snowflakes, little reindeer and pine trees around the subject. Show chunky yarn fibers, V-shaped stitches and a little pilling, like a photo of a real sweater with soft side light. Animals have four normal legs, people exactly two arms and two legs. No text, no flat digital fill, no cartoon outlines."
+  },
+  {
+   "id": "x02",
+   "name": "雪景玻璃球",
+   "en": "Snow Globe Miniature",
+   "cat": "event",
+   "tags": [
+    "pet",
+    "people",
+    "travel",
+    "street"
+   ],
+   "fit": "寵物、人物全身照、地標或房子",
+   "fitEn": "Pets, full-body photos of people, landmarks or houses",
+   "color": "#5b8fb9",
+   "effect": "照片裡的主體變成迷你模型，裝在一顆飄著雪的玻璃球裡，底座刻著名字。",
+   "effectEn": "The subject becomes a tiny model inside a snow globe with falling snow, with a name engraved on the base.",
+   "opts": "底座名字、底座材質（木頭／金色）、背景（聖誕樹旁／窗台）",
+   "optsEn": "Name on the base, base material (wood / gold), background (by a Christmas tree / windowsill)",
+   "pzh": "把我上傳照片中的主體（人物、寵物或建築）做成一個迷你模型，放進一顆聖誕雪景玻璃球裡。模型保留原照的長相、姿勢、顏色和特徵，一眼認得出是同一個，質感像手工上色的樹脂小模型；動物是正常的四隻腳，人物是兩隻手、兩隻腳。模型站在一小片積雪的地面上，旁邊有兩三棵小松樹。玻璃球裡飄著細小的雪花，玻璃有真實的反光和折射。底座是【木頭／金色金屬】，正面刻著「【名字】」，字清楚、不要亂碼。玻璃球放在【聖誕樹旁／窗台】，背景是溫暖的燈串散景。商品攝影打光，溫馨、精緻，比例 3:4。",
+   "pen": "Turn the subject in my photo (a person, pet or building) into a tiny model inside a Christmas snow globe. Keep the likeness, pose, colors and features so it's instantly recognizable, with the finish of a hand-painted resin miniature; animals have four normal legs, people exactly two arms and two legs. The model stands on a small patch of snowy ground with two or three tiny pine trees. Fine snowflakes drift inside, and the glass has realistic reflections and refraction. The base is [wood / gold metal] with \"[NAME]\" engraved on the front, clear and legible. The globe sits [by a Christmas tree / on a windowsill] with warm string-light bokeh behind it. Product-photography lighting, cozy and refined, 3:4 ratio.",
+   "locked": true
+  },
+  {
+   "id": "x03",
+   "name": "復古聖誕卡",
+   "en": "Vintage Christmas Card",
+   "cat": "event",
+   "tags": [
+    "people",
+    "pet",
+    "travel",
+    "street",
+    "interior"
+   ],
+   "fit": "家人朋友合照、寵物、街景、房間",
+   "fitEn": "Group photos, pets, street scenes, rooms",
+   "color": "#2f6b4f",
+   "effect": "照片變成一張 1950 年代風格的手繪聖誕卡，水粉畫質感，卡片上有手寫的祝福。",
+   "effectEn": "Your photo becomes a hand-painted 1950s-style Christmas card in gouache, with a handwritten greeting.",
+   "opts": "祝福文字、卡片底色（奶油白／深綠）",
+   "optsEn": "Greeting text, card color (cream / deep green)",
+   "pzh": "把我上傳的照片重新畫成一張 1950 年代風格的復古聖誕卡，比例 3:4 直式。畫面用不透明水粉畫的質感，色塊平順但看得到筆觸，配色是暗紅、松綠、奶油白和一點金色。保留原照的構圖、人物（或動物）的長相、姿勢和穿著，一眼認得出是誰；人物是兩隻手、兩隻腳，動物是正常的四隻腳。場景加上雪、冬青、燈串或一棵小聖誕樹，但不要蓋住主體。卡片底色是【奶油白／深綠】，四周留一圈細細的金色邊框，下方用優雅的手寫英文字寫「【Merry Christmas】」，字清楚、不要亂碼。紙張有一點泛黃和細紋，像從舊抽屜裡找到的卡片。",
+   "pen": "Repaint my photo as a 1950s-style vintage Christmas card, 3:4 vertical. Use an opaque gouache look — smooth color blocks with visible brushwork — in deep red, pine green, cream and a touch of gold. Keep the original composition and the people's (or animal's) likeness, pose and clothing so they're recognizable; people have exactly two arms and two legs, animals four normal legs. Add snow, holly, string lights or a small Christmas tree without covering the subject. Card color: [cream / deep green], with a thin gold border, and an elegant handwritten \"[Merry Christmas]\" at the bottom, clear and legible. The paper is slightly yellowed with fine texture, like a card found in an old drawer."
+  },
+  {
+   "id": "x04",
+   "name": "聖誕扮裝貼圖",
+   "en": "Christmas Costume Stickers",
+   "cat": "event",
+   "tags": [
+    "people",
+    "pet"
+   ],
+   "fit": "臉部清楚的人像或寵物",
+   "fitEn": "A portrait or pet with a clear face",
+   "color": "#d6533a",
+   "effect": "用一張照片做出同一角色的 8 種聖誕扮裝貼圖：聖誕老人、麋鹿、小精靈、薑餅人、雪人……白邊、白底。",
+   "effectEn": "One photo becomes 8 Christmas costume stickers of the same character — Santa, reindeer, elf, gingerbread, snowman and more — with white borders on a white background.",
+   "opts": "畫風（Q 版平塗／粗線卡通）、8 句台詞",
+   "optsEn": "Style (chibi flat color / bold cartoon), the 8 captions",
+   "pzh": "根據我上傳的照片，把人物（或寵物）畫成一個可愛的 Q 版角色，保留髮型、臉型和明顯特徵，身體結構正常：人物是兩隻手、兩隻腳，動物是正常的四隻腳。做成一張 4×2 共 8 格的聖誕貼圖表，每格是同一個角色穿不同的扮裝：聖誕老人（紅帽＋白鬍子）、麋鹿（鹿角＋紅鼻子）、聖誕小精靈（尖耳＋綠帽）、薑餅人、雪人、聖誕樹裝、抱著禮物盒、戴毛線帽圍巾。每格配一句短的繁體中文：【聖誕快樂／禮物呢／好冷喔／抱一個／吃太飽／許個願／我很乖／明年見】。每個角色外圍加粗白邊，背景純白（方便去背），格子之間留足空隙，角色不要互相重疊，文字清楚好讀、不要亂碼。畫風：【Q 版平塗／粗線卡通】，配色用紅、綠、白和一點金色，明亮可愛。",
+   "pen": "Based on my photo, draw the person (or pet) as one cute chibi character, keeping their hairstyle, face shape and distinctive features, with correct anatomy — people exactly two arms and two legs, animals four normal legs. Create a 4×2 Christmas sticker sheet of 8 cells, each the same character in a different costume: Santa (red hat + white beard), reindeer (antlers + red nose), Christmas elf (pointy ears + green hat), gingerbread, snowman, Christmas-tree outfit, hugging a gift box, knit beanie and scarf. Give each cell a short caption: [Merry Christmas / Where's my gift / So cold / Hug me / Too full / Make a wish / I was good / See you next year]. Add a thick white border around each character, pure white background (for easy cut-out), generous spacing, no overlapping, captions clearly legible. Style: [chibi flat color / bold cartoon], palette of red, green, white and a touch of gold — bright and cute.",
+   "locked": true
+  },
+  {
+   "id": "x05",
+   "name": "羊毛氈聖誕吊飾",
+   "en": "Felt Christmas Ornament",
+   "cat": "event",
+   "tags": [
+    "pet",
+    "people"
+   ],
+   "fit": "寵物、人像，正面或側面清楚的照片",
+   "fitEn": "Pets or portraits with a clear front or side view",
+   "color": "#8a6d3b",
+   "effect": "把人（或寵物）做成一個手工羊毛氈吊飾，戴著小聖誕帽，掛在聖誕樹上，旁邊有寫名字的牛皮紙小吊牌。",
+   "effectEn": "You (or your pet) as a handmade needle-felt ornament in a tiny Santa hat, hanging on a Christmas tree with a kraft-paper name tag.",
+   "opts": "吊牌上的名字、配件（聖誕帽／圍巾／鈴鐺）",
+   "optsEn": "Name on the tag, accessory (Santa hat / scarf / bell)",
+   "pzh": "把我上傳照片中的人物（或寵物）做成一個手工羊毛氈聖誕吊飾，大約掌心大小。保留原照的長相、毛色或髮型、表情和明顯特徵，一眼認得出是同一個；人物是兩隻手、兩隻腳，動物是正常的四隻腳。看得到羊毛纖維的毛絨感、戳針留下的細小凹痕和一點點起毛，眼睛用小黑珠子。吊飾戴著【聖誕帽／紅色圍巾／金色小鈴鐺】，頭頂用一條紅白麻繩掛在聖誕樹枝上，旁邊用細繩綁著一張牛皮紙小吊牌，手寫「【名字】」，字清楚、不要亂碼。背景是松樹枝、金色小球和溫暖的燈串散景，淺景深，近拍商品照，溫馨可愛，比例 3:4。",
+   "pen": "Turn the person (or pet) in my photo into a handmade needle-felt Christmas ornament about the size of a palm. Keep the likeness, fur color or hairstyle, expression and distinctive features so it's instantly recognizable; people have exactly two arms and two legs, animals four normal legs. Show fuzzy wool fibers, tiny dimples from the felting needle and a little stray fuzz, with small black bead eyes. The ornament wears a [Santa hat / red scarf / little gold bell] and hangs from a pine branch by a red-and-white twine loop, with a small kraft-paper tag tied on and \"[NAME]\" handwritten on it, clear and legible. Background: pine needles, gold baubles and warm string-light bokeh, shallow depth of field, close-up product shot, cozy and cute, 3:4 ratio.",
+   "locked": true
   }
  ],
- "events": []
+ "events": [
+  {
+   "id": "xmas-2026",
+   "name": "聖誕節特輯",
+   "nameEn": "Christmas Special",
+   "emoji": "🎄",
+   "from": "2026-12-18",
+   "to": "2026-12-26",
+   "styleIDs": [
+    "x01",
+    "x02",
+    "x03",
+    "x04",
+    "x05"
+   ]
+  }
+ ]
 }
