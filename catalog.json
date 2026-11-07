@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "styles": [
   {
    "id": "01",
@@ -773,6 +773,63 @@
    "pzh": "把我上傳照片中的人物（或寵物）做成一個手工羊毛氈聖誕吊飾，大約掌心大小。保留原照的長相、毛色或髮型、表情和明顯特徵，一眼認得出是同一個；人物是兩隻手、兩隻腳，動物是正常的四隻腳。看得到羊毛纖維的毛絨感、戳針留下的細小凹痕和一點點起毛，眼睛用小黑珠子。吊飾戴著【聖誕帽／紅色圍巾／金色小鈴鐺】，頭頂用一條紅白麻繩掛在聖誕樹枝上，旁邊用細繩綁著一張牛皮紙小吊牌，手寫「【名字】」，字清楚、不要亂碼。背景是松樹枝、金色小球和溫暖的燈串散景，淺景深，近拍商品照，溫馨可愛，比例 3:4。",
    "pen": "Turn the person (or pet) in my photo into a handmade needle-felt Christmas ornament about the size of a palm. Keep the likeness, fur color or hairstyle, expression and distinctive features so it's instantly recognizable; people have exactly two arms and two legs, animals four normal legs. Show fuzzy wool fibers, tiny dimples from the felting needle and a little stray fuzz, with small black bead eyes. The ornament wears a [Santa hat / red scarf / little gold bell] and hangs from a pine branch by a red-and-white twine loop, with a small kraft-paper tag tied on and \"[NAME]\" handwritten on it, clear and legible. Background: pine needles, gold baubles and warm string-light bokeh, shallow depth of field, close-up product shot, cozy and cute, 3:4 ratio.",
    "locked": true
+  },
+  {
+   "id": "68",
+   "name": "法式精品商品海報",
+   "en": "French Luxury Product Poster",
+   "cat": "design",
+   "tags": [
+    "food",
+    "interior"
+   ],
+   "fit": "單一商品照：沙拉、甜點、麵包、飲料、香水、保養品，或你自己做的手作商品",
+   "fitEn": "One product photo: salad, dessert, bread, a drink, perfume, skincare, or something you made",
+   "color": "#c9a98c",
+   "effect": "商品照變成法式精品廣告：柔和的棚拍光、奶油色留白，旁邊坐著一個脖子細長、表情慵懶的手繪小人，配優雅的中英文字。",
+   "effectEn": "Your product shot becomes a French luxury ad: soft studio light, creamy empty space, a long-necked, languid hand-drawn figure perched beside it, and elegant bilingual type.",
+   "opts": "商品名稱、背景色（奶油白／香檳米／霧粉／鼠尾草綠／淡奶茶）、人物動作",
+   "optsEn": "Product name, background (cream / champagne / dusty pink / sage / milk tea), character pose",
+   "pzh": "用我上傳的商品照片，做一張 1:1 正方形的法式精品廣告海報，商品名稱是「【商品名稱】」。商品完全照原照片呈現，形狀、比例、顏色、材質和細節都不能改，用高級棚拍光線拍出細膩質感、真實顏色和柔和自然的影子；商品放在中央或稍微偏左，是畫面最大、最完整的主角，不要堆太多東西。加一個原創的法式藝術感小人物：脖子很長、手腳細長、頭型有點不對稱，表情冷靜、略帶戲劇感，穿寬鬆襯衫或剪裁特別的簡單衣服；只有兩隻手、兩隻腳。用細緻的手繪黑色線條，身體只填一種低彩度的顏色。人物【坐在商品邊緣／倚靠著商品／把商品當椅子】，手腳可以和商品輪廓自然交錯，比例小巧，不能擋住商品。背景是乾淨柔和的【奶油白／香檳米／霧粉／鼠尾草綠／淡奶茶】單色，只有很輕的光影變化，不要幾何圖形、拱門、花卉或裝飾圖案。文字像法國精品刊物：一個優雅的中文主標、一行字距拉開的英文襯線字、一行小字副標，三層清楚、字不要太大，內容依商品自動發想，拼字正確、不要亂碼。商品是主角，人物是巧妙的點綴，色彩克制、留白多。不要 logo、商標或浮水印。",
+   "pen": "Using my product photo, create a 1:1 square French luxury ad poster for \"[PRODUCT NAME]\". Keep the product exactly as photographed — shape, proportions, color, material and details unchanged — lit like a high-end studio shot with fine texture, true color and soft natural shadows. Place it centered or slightly left as the largest, most complete element, without piling up extra items. Add one original, artsy French-style figure: a very long neck, thin limbs, a slightly asymmetric head, a calm, faintly theatrical expression, wearing a loose shirt or a simple, unusually cut outfit; exactly two arms and two legs. Draw it with delicate hand-drawn black lines and fill the body with a single muted color. The figure is [sitting on the edge of / leaning against / using as a chair] the product, limbs lightly overlapping its outline, small in scale and never covering it. Clean, soft [cream / champagne / dusty pink / sage / milk tea] background with only a whisper of light and shadow — no geometric shapes, arches, florals or patterns. Typography like a French luxury magazine: an elegant Chinese headline, a widely tracked English serif line and a small subtitle, three clear tiers, never oversized, written to suit the product, spelled correctly with no garbled text. The product is the star and the figure a witty accent; restrained color, generous white space. No logos, trademarks or watermarks."
+  },
+  {
+   "id": "69",
+   "name": "美式潮流商品海報",
+   "en": "American Minimal Pop Poster",
+   "cat": "design",
+   "tags": [
+    "food",
+    "interior"
+   ],
+   "fit": "單一商品照：漢堡、炸物、飲料、球鞋、包包、玩具，或你攤位上的商品",
+   "fitEn": "One product photo: a burger, fried food, a drink, sneakers, a bag, a toy, or something from your stall",
+   "color": "#d9532f",
+   "effect": "商品照變成美式潮流品牌廣告：大量留白、粗體標題，旁邊有一個大手細腿、表情很酷的黑線漫畫小人和商品互動。",
+   "effectEn": "Your product shot becomes an American streetwear-style ad: lots of white space, bold type, and a big-handed, skinny-legged deadpan comic character hanging out with it.",
+   "opts": "商品名稱、背景色（奶油白／淺灰白／暖米色／冷灰）、人物強調色、人物動作",
+   "optsEn": "Product name, background (cream / off-white / warm beige / cool grey), accent color, character pose",
+   "pzh": "用我上傳的商品照片，做一張 1:1 正方形的美式極簡潮流商品海報，商品名稱是「【商品名稱】」。商品完全照原照片呈現，形狀、比例、顏色、材質和細節都不能改，拍成高級棚拍商品照：真實質感、柔和自然的影子，放在中央或稍微偏左，佔畫面主要面積。加一個原創的美式獨立漫畫風小人物：小頭、大手、細長腿，半瞇眼、表情冷淡又有點好笑，穿寬鬆街頭服裝和特別的鞋子；只有兩隻手、兩隻腳。用俐落的黑色輪廓線，衣服只加【一種強調色，例如橘紅／鈷藍／芥末黃，也可以只用黑白】。人物正在【背對商品、手肘靠膝蓋坐在旁邊／坐在商品上／靠著商品／從商品後面探出頭】，線條可以和商品輪廓自然交錯，但不能擋住商品，也不能比商品搶眼。背景是乾淨的【奶油白／淺灰白／暖米色／冷灰】單色，留大量空白，不要網點、放射線、貼紙或幾何色塊。文字用美式生活雜誌的排版：一個簡短、有態度的粗體主標（可以是英文大字加中文），一行小的商品特色，再加一句字距拉開的英文無襯線短句，用黑色、深灰或深咖啡色，克制精緻，拼字正確、不要亂碼。商品第一、人物第二、文字第三。不要 logo、商標或浮水印。",
+   "pen": "Using my product photo, create a 1:1 square American minimal-pop product poster for \"[PRODUCT NAME]\". Keep the product exactly as photographed — shape, proportions, color, material and details unchanged — shot like a high-end studio product photo with true texture and soft natural shadows, centered or slightly left and filling most of the frame. Add one original American indie-comic character: small head, big hands, long thin legs, half-closed eyes and a deadpan, slightly funny expression, loose streetwear and distinctive shoes; exactly two arms and two legs. Clean black outlines with the clothes in [one accent color such as red-orange / cobalt blue / mustard, or black and white only]. The character is [sitting with its back to the product, elbows on knees / sitting on top of it / leaning on it / peeking out from behind it], lines lightly overlapping its edge, never covering the product or stealing focus. Plain [cream / off-white / warm beige / cool grey] background with lots of empty space — no halftone, speed lines, stickers or geometric shapes. Lifestyle-magazine typography: one short, bold headline with attitude (big English words plus Chinese is fine), one small line about the product, and a widely tracked English sans-serif phrase, in black, dark grey or dark brown, restrained and refined, spelled correctly with no garbled text. Product first, character second, text third. No logos, trademarks or watermarks."
+  },
+  {
+   "id": "70",
+   "name": "日系極簡商品海報",
+   "en": "Japanese Minimal Product Poster",
+   "cat": "design",
+   "tags": [
+    "food",
+    "interior"
+   ],
+   "fit": "咖啡、甜點、麵包、茶、杯盤、文具、小物，光線明亮的商品照最好看",
+   "fitEn": "Coffee, desserts, bread, tea, tableware, stationery, small goods — bright product photos work best",
+   "color": "#b07a4f",
+   "effect": "商品照變成日本生活選物雜誌的廣告：明亮安靜、大量留白，一個呆呆的小人坐在商品上，配細緻的中英直排文字。",
+   "effectEn": "Your product shot becomes a Japanese lifestyle-magazine ad: bright, quiet and airy, with a dazed little figure sitting on the product and delicate bilingual type.",
+   "opts": "商品名稱、背景色（奶油白／暖灰白／淡米色／極淺灰）、人物動作",
+   "optsEn": "Product name, background (cream / warm off-white / pale beige / very light grey), character pose",
+   "pzh": "用我上傳的商品照片，做一張 1:1 正方形的日系極簡商品海報，商品名稱是「【商品名稱】」。商品完全照原照片呈現，形狀、比例、顏色、材質和細節都不能改，用明亮的棚拍光線拍出自然細膩的質感和柔和影子；商品放在中央或稍微偏左，至少佔畫面一半，可以用自然的前後擺放做出層次。加一個原創的日本獨立插畫風小人物：身體小小的、手腳細長、頭型有點特別，表情有點呆、帶一點冷幽默，不要 Q 版或動漫角色；只有兩隻手、兩隻腳。用一種純色平塗，配細緻俐落的黑色或同色系線條，顏色依商品自動搭配。人物比例很小，【坐在商品頂端／抱著膝蓋坐在商品上／倚靠在商品之間】。背景是【奶油白／暖灰白／淡米色／極淺灰】，除了商品本身的顏色，整張只多加人物這一種顏色，不要幾何色塊、網點或裝飾圖案。文字像日本生活風格雜誌：一個簡短有記憶點的中文主標，兩行小字副標，再加一句英文襯線小字，行距和字距留足，用深灰、黑色或低彩度顏色，不要促銷口吻，內容依商品自動發想，拼字正確、不要亂碼。商品第一、人物第二、文字第三，安靜、乾淨、細膩。不要 logo、商標或浮水印。",
+   "pen": "Using my product photo, create a 1:1 square Japanese minimal editorial poster for \"[PRODUCT NAME]\". Keep the product exactly as photographed — shape, proportions, color, material and details unchanged — in bright studio light with natural fine texture and soft shadows. Place it centered or slightly left, filling at least half the frame, with gentle front-to-back layering. Add one original figure in the style of an independent Japanese illustrator: a tiny body, long thin limbs, an unusual head shape, a slightly dazed, dry-humored expression — not chibi or anime; exactly two arms and two legs. Flat single-color fill with fine black or matching-tone lines, the color chosen to suit the product. The figure is very small, [sitting on top of the product / hugging its knees on the product / leaning between the items]. Background: [cream / warm off-white / pale beige / very light grey]; apart from the product's own colors, add only the figure's one color — no geometric blocks, halftone or decorative patterns. Typography like a Japanese lifestyle magazine: a short, memorable Chinese headline, two lines of small subtitle and one small English serif phrase, with generous leading and tracking, in dark grey, black or muted tones, never salesy, written to suit the product, spelled correctly with no garbled text. Product first, figure second, text third — quiet, clean and refined. No logos, trademarks or watermarks."
   }
  ],
  "events": [
